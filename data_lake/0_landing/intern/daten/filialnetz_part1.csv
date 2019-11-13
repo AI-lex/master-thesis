@@ -1,0 +1,1138 @@
+ID;Strassenname;PLZ;Region;latitude;longitude
+1;Musestieg 5;06502;Thale;51.75044760000001;11.0445755
+2;Oeringer Str. 20;06484;Quedlinburg;51.7899816;11.1562559
+3;Felsenkellerweg 21;06493;Ballenstedt;51.7232837;11.2210214
+4;Kyffhäuserstr. 64;06567;Bad Frankenhausen;51.3534122;11.1045009
+5;Weinbergstr. 2;06526;Sangerhausen;51.4585741;11.3008606
+6;Hauptstr. 55/56;06577;Heldrungen;51.3024996;11.2186215
+7;Geschwister-Scholl-Str. 55;06449;Aschersleben;51.76002399999999;11.4554998
+8;Kachstedter Str. 4;06556;Artern;51.3743202;11.2858714
+9;Klausstr. 1A;06343;Mansfeld;51.60482589999999;11.4625908
+10;Doktorsteg 2;06333;Hettstedt;51.6479145;11.5165972
+11;Rathenau-Straße;06295;Eisleben;51.5201936;11.5542584
+12;Hallesche Str. 88;06295;Eisleben;51.52163299999999;11.5566008
+13;Friedenstr. 7;06571;Roßleben;51.2975687;11.4349393
+14;Am Platz der Jugend 1A;06406;Bernburg;51.8034897;11.7373816
+15;Parkstraße/ Mauerstr. 1;06406;Bernburg;51.7903887;11.7512509
+16;Merseburger Str. 67;06268;Querfurt;51.3816835;11.6086238
+17;Am Kümmelbrunnen;07426;Königsee;50.6618668;11.1055954
+18;Leipziger Str. 36I;06366;Köthen;51.7459955;11.9908825
+19;Nietlebener Str. 3;06126;Halle-Nördl.Neustadt;51.4806448;11.9117257
+20;Kaiserstr. 48;06385;Aken;51.8507488;12.0383165
+21;Naumburger Straße;06628;Bad Kösen;51.1394521;11.7258836
+22;Salinenstr. 8;06628;Bad Kösen;51.1389485;11.7258981
+23;Trothaer Str. 62;06128;Halle-Trotha;51.5173567;11.957732
+24;Trothaer Str. 62;06118;Halle;51.5173567;11.957732
+25;Schwarzburger Chaussee 59-61;07407;Rudolstadt-West;50.71291369999999;11.3196635
+26;Böllberger Weg 26A;06110;Halle-Mitte;51.4685224;11.9593477
+27;Frenzelstr. 2;07407;Rudolstadt-Ost;50.7259945;11.3721144
+28;Südstadtring 70;06128;Halle-Südstadt;51.44866889999999;11.9544193
+29;Camburger Str. 26;07743;Jena-Nord;50.9379406;11.5924859
+30;Krausenstr. 9;06112;Halle-Mitte;51.4874306;11.9837701
+31;Krausenstr. 9;06122;Halle;51.4882626;11.9837664
+32;Rudolstädter Str. 31;07743;Jena-Burgau;50.90094860000001;11.5795671
+33;Merseburger Str. 221;06130;Halle-Damaschkestraße;51.4561175;11.9850371
+34;Broihanstr. 2;06132;Halle-Ammendorf;51.4308916;11.9735506
+35;Merseburger Str. 79;06242;Braunsbedra;51.2854411;11.891383
+36;Rosa-Luxemburg-Str. 30;06618;Naumburg;51.1503171;11.820824
+37;Fingersteinstr. 22;07318;Saalfeld;50.65309120000001;11.3552154
+38;Melanchthonstr. 34;07318;Saalfeld;50.644209;11.349919
+39;König-Heinrich-Str. 13;06217;Merseburg;51.3580547;11.9934269
+40;Str. des Friedens 2;06217;Merseburg;51.3416529;11.9897047
+41;Köthener Str. 70A;06847;Dessau-Alten;51.82135;12.19025
+42;Koethener Str. 70a;06844;Dessau;51.8211305;12.1898384
+43;Christian-Eckhardt-Str. 40;07768;Kahla;50.811086;11.5834442
+44;Merseburger Str. 72;06667;Weißenfels;51.212413;11.9667892
+45;Askanische Str. 115;06846;Dessau-Mitte;51.8283075;12.2334877
+46;Tagewerben Str. 38;06667;Weißenfels;51.2381667;11.9527678
+47;Breite Str. 58;06231;Bad Dürrenberg;51.2942191;12.0706935
+48;Leipziger Str. 83-89;06766;Wolfen;51.66317230000001;12.2747382
+49;Neustädter Str. 149;07381;Pößneck;50.7021801;11.6148548
+50;Jenaer Str. 1-5;07607;Eisenberg;50.9703064;11.8921364
+51;Eisenberger Str. 120;07629;Hermsdorf;50.9059541;11.8584673
+52;Hallesche Str. 64;04435;Schkeuditz;51.3953099;12.2117495
+53;Friedensstr. 5-7;06749;Bitterfeld;51.6278797;12.3287677
+54;Schleizer Str. 10;07806;Neustadt/ Orla;50.7329353;11.7539699
+55;Richard-Wagner-Str. 9A;04509;Delitzsch;51.5172448;12.3309297
+56;Leipziger Str. 67;04420;Markranstädt;51.3092681;12.2292327
+57;Großmiltitzer Str. 45;04205;Leipzig-Grünau;51.3167943;12.2617223
+58;Lützner Str. 396;04205;Leipzig-Schönau;51.3237286;12.289529
+59;Bahnhofstr. 2;06773;Gräfenhainichen;51.7283451;12.4573812
+60;Stuttgarter Allee 2;04207;Leipzig-Grünau;51.3139937;12.2927813
+61;Friedensstr. 27;06712;Zeitz;51.0422901;12.1264867
+62;Hauschildstr. 1;04177;Leipzig-Altlindenau;51.3382336;12.3228612
+63;Zschochersche Str. 79;04229;Leipzig-Plagwitz;51.3260668;12.3348338
+64;Geußnitzer Straße;06712;Zeitz;51.0390406;12.1549035
+65;Dieskaustr. 175;04249;Leipzig-Großzschocher;51.3041123;12.3282596
+66;Max-Liebermann-Str. 99;04157;Leipzig-Gohlis;51.3771181;12.3778388
+67;Groitzscher Fußweg 1;04523;Pegau;51.1644958;12.2629028
+68;Leipziger Vorstadt / B2;04523;Pegau;51.165277;12.2632605
+69;Theresienstr. 5;04129;Leipzig-Eutritzsch;51.3604093;12.3815733
+70;Petersstr. 36/44;04109;Leipzig-Mitte;51.3375369;12.3742164
+71;Windscheidstr. 1;04277;Leipzig-Connewitz;51.314076;12.3692227
+72;Str. des Bergmanns 10;07545;Gera-Bieblach;50.8931224;12.0843581
+73;Koburger Str. 45;04416;Markkleeberg;51.2835246;12.3650046
+74;Langenberger Str. 21;07552;Gera-Langenberg;50.91852;12.05546
+75;Str. des Friedens 32/34;07548;Gera-Debschwitz;50.8700608;12.0688446
+76;Pegauer Str. 141;04442;Zwenkau;51.2045966;12.3253308
+77;Zwickauer Str. 66;04277;Leipzig-Marienbrunn;51.310744;12.3948965
+78;Theklaer Str. 150;04349;Leipzig-Thekla;51.3788338;12.4309019
+79;Zeulsdorfer Str. 50A;07549;Gera-Lusan;50.844728;12.0653698
+80;Torgauer Str. 74;04318;Leipzig-Sellerhausen;51.3474988;12.4203313
+81;Geraer Str. 21;07907;Schleiz;50.5805032;11.8079617
+82;Holzhäuser Str. 104;04299;Leipzig-Stötteritz;51.3195799;12.4241191
+83;Zum Tännig 2;07356;Bad Lobenstein;50.4503137;11.6521388
+84;Am Flugplatz 5;07546;Gera;50.88293609999999;12.13104
+85;Dessauer Str. 279;06886;Wittenberg;51.8662708;12.6272782
+86;Riesaer Str. 75;04328;Leipzig-Paunsdorf;51.34632000000001;12.46031
+87;Leipziger Str. 117;04425;Taucha;51.3732361;12.4797789
+88;Röthaer Str. 30C;04564;Böhlen;51.198708;12.3912269
+89;Berliner Chaussee 13;06886;Wittenberg;51.8803972;12.6543873
+90;Baderdamm 17;04610;Meuselwitz;51.0430405;12.3014435
+91;Schmiedeberger Str. 56B;04849;Bad Düben;51.59855340000001;12.5964299
+92;Schopperstr. 32C;07937;Zeulenroda;50.6549446;11.9905227
+93;Ziegelstr. 4;04838;Eilenburg;51.4645157;12.6483683
+94;Lobstädter Str. 17;04552;Borna;51.1222395;12.4880856
+95;Lödlaer Chaussee 2;04617;Lödla-Oberlödla;50.9991783;12.4046131
+96;Brandiser Str. 88;04683;Naunhof;51.2882353;12.5884965
+97;Sachsenallee;04552;Borna;51.1255487;12.4948991
+98;Schleizer Str. 49;07926;Gefell;50.4410999;11.8605022
+99;Ronneburger Str. 118A;04626;Schmölln;50.8937192;12.3340186
+100;Kauerndorfer Allee 10;04600;Altenburg;50.9971039;12.4247373
+101;Trageser Str. 36;04567;Kitzscher;51.1668835;12.5517768
+102;August-Bebel-Str. 21;07973;Greiz;50.655213;12.2070316
+103;Wiesenmühlenweg 1;04654;Frohburg;51.0583777;12.5514947
+104;Dresdener Str. 7;04808;Wurzen;51.3674772;12.7367397
+105;Amselstr. 2;08451;Crimmitschau;50.81942919999999;12.3924313
+106;Bahnhofstr. 12;04668;Grimma;51.2288069;12.7147587
+107;Äussere Crimmitschauer Str. 82;08393;Meerane;50.8439008;12.4501304
+108;Crimmitschauer Str. 8;08412;Werdau;50.74014829999999;12.3779409
+109;Hofer Str. 21;08527;Plauen-Süd;50.48936579999999;12.1401775
+110;Rosa-Luxemburg-str. 70;06917;Jessen;51.7941781;12.9688351
+111;Zwickauer Str. 97;08468;Reichenbach;50.6299848;12.3064421
+112;Grimmaische Str. 37-39;04643;Geithain;51.0598199;12.6904337
+113;Bahnhofstraße;08115;Lichtentanne;50.6985745;12.4179397
+114;Hans-Lorenz-Str. 1;08371;Glauchau;50.8250284;12.5434409
+115;Marienthaler Str. 53;08060;Zwickau-Marienthal;50.719091;12.4669268
+116;Oststr. 96;08233;Treuen;50.54759989999999;12.3033733
+117;Leipziger Str. 168;08058;Zwickau-Pölbitz;50.7377017;12.4909408
+118;Plauensche Str. 67;08606;Oelsnitz/ Vogtland;50.4271103;12.1765134
+119;Am Fuchsgraben 21;08056;Zwickau-Planitz;50.7017813;12.4853261
+120;Warschauer Str. 9B;04860;Torgau;51.5585463;12.9904222
+121;Wassergasse 1;04680;Colditz;51.1289863;12.8035632
+122;Chemnitzer Str. 98A;09322;Penig;50.92537;12.7129772
+123;Zwickauer str. 39;08112;Wilkau-Haßlau;50.6784443;12.5078252
+124;Lengenfelder Str. 3;08228;Rodewisch;50.5319094;12.4023859
+125;Göltzschtalstr. 47;08209;Auerbach;50.4996376;12.397114
+126;Bahnhofstr. 10A;04874;Belgern;51.4804893;13.1178343
+127;Dresdner Str. 122;09337;Hohenstein-Ernstthal;50.8033006;12.7319155
+128;Chemnitzer Str. 40;09212;Limbach-Oberfrohna;50.8542603;12.7777132
+129;Berliner Str. 1;04916;Herzberg;51.6959826;13.2479889
+130;Altmarkt 17-18;04758;Oschatz;51.298585;13.1075332
+131;Adorfer Str. 49;08258;Markneukirchen;50.3096741;12.317674
+132;Hauptstr. 5;04736;Waldheim;51.0756118;13.0077263
+133;Stollberger Str. 7;09399;Niederwürschnitz;50.7210964;12.7560618
+134;Kobaltstr. 2A;08289;Schneeberg;50.5945484;12.6492523
+135;Zwickauer Str. 391-393;09117;Chemnitz-Siegmar;50.8170972;12.8465767
+136;Bahnhofstr. 8-10;09648;Mittweida;50.98638340000001;12.9709011
+137;Limbacher Str. 208;09116;Chemnitz-Altendorf;50.8333368;12.8752218
+138;Chemnitzer Str. 27;09366;Stollberg;50.7152429;12.7835254
+139;Limbacher Str. 31;09116;Chemnitz-Kaßberg;50.83828399999999;12.9019919
+140;Zwickauer Str. 160;09116;Chemnitz-Kappel;50.8219791;12.8902622
+141;Holzhofstr. 4;08248;Klingenthal;50.3563318;12.4527035
+142;Paul-Bertz-Str. 14;09120;Chemnitz-Helbersdorf;50.8021302;12.8880562
+143;Dr.Otto-Nuschke-Str. 9;08280;Aue;50.5939683;12.7120896
+144;Schlachthofstr. 2;04720;Döbeln;51.1226566;13.1070407
+145;Eckstr. 4;09111;Chemnitz-Schloßchemnitz;50.8459415;12.9244671
+146;Wilhelm-Raabe-Str. 52;09120;Chemnitz-Altchemnitz;50.8175581;12.9159391
+147;Fürstenstr. 5;09130;Chemnitz-Sonnenberg;50.8370213;12.9331815
+148;Dresdner Str. 30;04720;Döbeln;51.12234609999999;13.1441761
+149;Zschopauer Str. 184;09126;Chemnitz-Lutherviertel;50.81779;12.9446
+150;Zschopauer Str. 184;09127;Chemnitz;50.8176899;12.9448258
+151;Chemnitzer Str. 59;09669;Frankenberg;50.90845179999999;13.0274265
+152;Lange Str. 46;01587;Riesa-Neuweida;51.3117871;13.2677004
+153;Döbelner Str. 71;04741;Roßwein;51.0653331;13.1754911
+154;August-Bebel-Str. 1;09661;Hainichen;50.9672388;13.1203414
+155;August-Bebel-Str. 2;01589;Riesa;51.2985506;13.3081444
+156;August-Bebel-Str. 2;01587;Riesa;51.2985506;13.3081444
+157;Karlsbader Str. 42;08340;Schwarzenberg;50.53461309999999;12.7839586
+158;Dresdener Str. 29;04924;Bad Liebenwerda;51.51737499999999;13.4128705
+159;Augustusburger Str. 92-94;09557;Flöha;50.8495491;13.0786939
+160;Bergstr. 20;09557;Flöha;50.8460131;13.0758289
+161;Meißner Str. 2D;01612;Nünchritz;51.3003221;13.3831814
+162;Hauptstr. 77C;01609;Gröditz;51.4188366;13.4554759
+163;Bahnhofsallee 10;03253;Doberlug-Kirchhain;51.6189896;13.5599455
+164;Schillerstr. 41;04910;Elsterwerda;51.46496430000001;13.5257528
+165;Chemnitzer Str. 42;09456;Annaberg-Buchholz;50.5926834;13.0092635
+166;Radeburger Str. 5;01558;Großenhain;51.2949182;13.5379258
+167;Olbernhauer Str. 45-47;09599;Freiberg;50.90852109999999;13.3370085
+168;Fabrikstr. 11;01662;Meißen-Cölln;51.1603969;13.4851012
+169;Poststr. 11;01662;Meißen-Altstadt;51.0718004;13.6359165
+170;Langer Damm 6;03238;Finsterwalde;51.6293546;13.7113789
+171;Freiberger Str. 56;01723;Wilsdruff;51.0044468;13.4640096
+172;Dresdner Str. 16;01689;Weinböhla;51.1592541;13.5626851
+173;Am Mart 1;01561;Lampertswalde;51.306522;13.6712797
+174;Gerhart-Hauptmann-Str. 6A;01979;Lauchhammer;51.4982482;13.7685903
+175;Meißner Str. 252;01445;Radebeul-West;51.1084454;13.6333349
+176;Lindenweg 1;01471;Radeburg;51.2152122;13.7310825
+177;Otto-Grotewohl-Str. 19;03222;Lübbenau;51.8597753;13.9417089
+178;Meißner Str. 41;01445;Radebeul-Ost;51.0975175;13.6909581
+179;Omsewitzer Ring 45;01169;Dresden-Gorbitz;51.0489989;13.663629
+180;Cossebauder Str. 6;01157;Dresden-Cotta;51.0606777;13.6809667
+181;Dresdner Str. 112;01705;Freital;51.0090349;13.656785
+182;Berliner Str. 1;01945;Ruhland;51.4605548;13.8680762
+183;Gewerbepark Nord 1;03205;Calau;51.7492539;13.953505
+184;Großenhainer Str. 156;01129;Dresden-Trachenberge;51.0907326;13.7234447
+185;Ludwig-Kossuth-Str. 49;01109;Dresden-Hellerau;51.1173757;13.7426031
+186;Leipziger Str. 76;01127;Dresden-Pieschen;51.0742586;13.7234857
+187;Löbtauer Str. 26;01159;Dresden-Friedrichstadt;51.05283739999999;13.7151198
+188;Chemnitzer Str. 68;01187;Dresden-Plauen;51.0323544;13.7099729
+189;Budapester Str. 26A;01069;Dresden-Südvorstadt;51.0418064;13.719635
+190;Hansastr. 50;01097;Dresden-Leipziger Vorstadt;51.0718816;13.7397227
+191;Schlesischer Platz 1;01097;Dresden-Innere Neustadt;51.0655574;13.7408316
+192;Wiener Platz 4;01069;Dresden-Seevorstadt;51.0403398;13.7314638
+193;Karl-Marx-Str. 20;01109;Dresden-Klotzsche;51.1131798;13.7737107
+194;Grunaer Str. 5;01069;Dresden-Altstadt;51.04876849999999;13.746424
+195;Königsbrücker Landstr. 303;01108;Dresden-Weixdorf;51.1461368;13.7999942
+196;Südhöhe 38;01217;Dresden-Zschertnitz;51.0194227;13.7374959
+197;Strehlener Platz 1;01219;Dresden-Strehlen;51.0334937;13.7508054
+198;Am Firstenweg 1A;01744;Dippoldiswalde;50.8884307;13.6679612
+199;Comeniusplatz 2;01307;Dresden-Striesen;51.0418742;13.7678831
+200;Comeniusplatz 2;01309;Dresden;51.041877;13.7678748
+201;Freienhufener Str. 21A;01983;Großräschen;51.5855833;14.0014304
+202;Briesker Str. 50;01968;Senftenberg;51.5138991;13.98909
+203;Schandauer Str. 22A;01309;Dresden-Striesen;51.0433089;13.7861143
+204;Bodenbacher Str. 62A;01277;Dresden-Seidnitz;51.02953249999999;13.7890631
+205;Weißbacher Str. 28;01936;Königsbrück;51.2654541;13.9083283
+206;Georg-Palitzsch-Str. 16;01239;Dresden-Prohlis;51.00277759999999;13.7938817
+207;Bautzner Landstr. 112;01324;Dresden-Bühlau;51.06145249999999;13.8446874
+208;Österreicher Str. 2;01279;Dresden-Laubegast;51.02957379999999;13.8310495
+209;Pirnaer Landstr. 183A;01257;Dresden-Leuben;51.0079884;13.8349316
+210;Oberstr. 10;01454;Radeberg;51.11937229999999;13.9201792
+211;Gabelsberger Str. 8;01809;Heidenau;50.9721591;13.8663643
+212;Stolpener Str. 14;01477;Arnsdorf;51.0976294;13.9936801
+213;Senftenberger Str. 1;02991;Lauta;51.4605735;14.0972102
+214;Rathausallee 2A;02994;Bernsdorf;51.3757932;14.0708715
+215;Kamenzer Str. 23;01896;Pulsnitz;51.18991459999999;14.0154492
+216;Pulsnitzer Str. 13;01900;Großröhrsdorf;51.14798829999999;14.0227131
+217;Rudolf-Renner-Str. 10;01796;Pirna-Copitz;50.9683091;13.9332403
+218;Dresdner Str. 9;01796;Pirna;50.9569921;13.927729
+219;Fichtestr. 2;01917;Kamenz;51.2725742;14.1061302
+220;Karl-Liebknecht-Str. 47A;03046;Cottbus-Ströbitz;51.7555164;14.3114746
+221;Sielower Landstr. 21;03044;Cottbus-Brunschwig;51.7757269;14.323722
+222;Schulstr. 2A;02977;Hoyerswerda;51.43826749999999;14.2390415
+223;Sielower Landstr. 21;03042;Cottbus;51.7723944;14.3260419
+224;Uhlandstr. 12;03050;Cottbus-Sachsendorf;51.7256194;14.3358339
+225;Dissenchener Str. 16;03042;Cottbus-Sandow;51.7628129;14.3521484
+226;Cottbuser Str. 7A;03185;Peitz;51.85217300000001;14.406687
+227;Friedrich-List-Str. 2;01877;Bischofswerda;51.1172376;14.1879572
+228;Heinrichstr. 17;03130;Spremberg;51.5680035;14.3763878
+229;Basteistr. 31;01814;Bad Schandau;50.9222116;14.1398421
+230;Wilhelm-Kaulisch-Str. 29;01844;Neustadt/ Sachsen;51.0276303;14.2137366
+231;Am Ostbahnhof 5;01904;Neukirch;51.0919361;14.3203199
+232;Gartenstr. 1;01855;Sebnitz;50.9770326;14.2712695
+233;Neusalzaer Str. 39A;02625;Bautzen;51.1692733;14.4262662
+234;Steinstr. 36;02625;Bautzen;51.1805519;14.4330096
+235;Aufbaustr. 17;03159;Döbern;51.6155817;14.594977
+236;Spremberger Str. 10;03149;Forst;51.7365787;14.6387058
+237;Friedensstr. 77;02943;Boxberg;51.4029553;14.5784767
+238;Sprucker Str. 36;03172;Guben;51.9481555;14.7018478
+239;Bautzener Str. 31;02943;Weißwasser;51.4993292;14.6340744
+240;Czornebohstr. 2a;02733;Cunewalde;51.1012007;14.5202187
+241;Bautzner Str. 27;02730;Ebersbach;51.0040105;14.5905346
+242;Poststr. 7;02708;Löbau;51.0986556;14.6658307
+243;Kantstr. 31;02763;Zittau-Süd;50.8858776;14.8040644
+244;Reichenbacher Str. 53B;02827;Görlitz-Rauschwalde;51.1476255;14.9500211
+245;Christoph-Lüders-Str. 32;02826;Görlitz;51.1556444;14.9753095
+246;Am Keesboom 4;019258;Boizenburg;53.386634;10.7347366
+247;Grüner Weg 1;019249;Lübtheen;53.2969559;11.0836038
+248;Am Bahnhof 1;019246;Zarrentin;53.5470315;10.9134575
+249;Wölzower Weg 1;019243;Wittenburg;53.50427850000001;11.0833841
+250;Lenzener Str. 61;019322;Wittenberge;52.9970995;11.7427697
+251;Bentwischer Weg 56;019322;Wittenberge;53.0176032;11.7430455
+252;Neu Karstädter Weg 13;019300;Grabow;53.2816837;11.5546498
+253;Ratzeburger Chaussee 25;019205;Gadebusch;53.6962594;11.0999279
+254;Berliner Str. 35;019348;Perleberg;53.0711613;11.8749713
+255;Ludwigsluster Str. 2;019306;Neustadt-Glewe;53.3836257;11.5817561
+256;Gletzower Str. 29;019217;Rehna;53.7818601;11.0449695
+257;Schweriner Str. 3B;019061;Schwerin-Wüstmark;53.5847815;11.3989055
+258;Greifswalder Str. 1;019057;Schwerin-Lankow;53.647214;11.3524932
+259;An der Crivitzer Chaussee 16;019061;Schwerin-Dreesch;53.60303709999999;11.4422651
+260;Lübecker Str. 225;019059;Schwerin-Weststadt;53.6405991;11.3930422
+261;Burgstr. 20-22;019053;Schwerin;53.62872059999999;11.418874
+262;Lübecker Str. 225;019055;Schwerin;53.63979450000001;11.392648
+263;Ernst-Thälmann-Str. 2;014727;Premnitz;52.5315579;12.3382114
+264;H.-Heine Str.;014727;Premnitz;52.5278064;12.3460355
+265;Bruno-Baum-Ring 11A;014712;Rathenow;52.60371;12.36121
+266;Ludwigsluster Chaussee 30;019370;Parchim;53.42765619999999;11.8267343
+267;Weinbergstr. 14;019089;Crivitz;53.5806921;11.6467413
+268;Schweriner Chaussee 27;019370;Parchim;53.4377982;11.8487061
+269;Kaltenkirchener Siedlung 3;016949;Putlitz;53.2465507;12.0443701
+270;Friedrich-Franz-Str. 4;014770;Brandenburg-Altstadt;52.4139087;12.5243694
+271;Rostocker Str. 3;016928;Pritzwalk;53.1583114;12.1728871
+272;Upstallstr. 22;014772;Brandenburg-Nord;52.4303671;12.542891
+273;Potsdamer Str. 23;014776;Brandenburg-Neustadt;52.4048941;12.5719092
+274;Brücker Landstr. 5;014806;Bad Belzig;52.1445498;12.609038
+275;Perleberger Str. 55;016866;Kyritz;52.95113869999999;12.3788433
+276;Ihlenweg 2;016845;Neustadt/ Dosse;52.8575168;12.439452
+277;Werderstr. 21B;019386;Lübz;53.46627729999999;12.0235972
+278;Emstaler Landstr. 40;014797;Kloster Lehnin;52.3186213;12.7460637
+279;Bützower Str. 2-4;019417;Warin;53.8001613;11.7127294
+280;Perleberger Str. 42;016909;Wittstock;53.1601371;12.4690025
+281;Plauer Chaussee 5;019399;Goldberg;53.5833261;12.0912423
+282;Hauptstr. 34/ An der B 192;019399;Goldberg;53.5722761;12.1325419
+283;Quetziner Str. 19A;019395;Plau;53.46263;12.265
+284;Nauener Str. 9;014669;Ketzin;52.48198799999999;12.845764
+285;Berliner Allee 30C;016833;Fehrbellin;52.8094997;12.7766481
+286;Berliner Str. 88;014542;Werder;52.3706822;12.9193877
+287;Berliner Str. 38/40/42;014641;Nauen;52.6029843;12.8806499
+288;Clara-Zetkin-Str. 37A;014547;Beelitz;52.2371321;12.9692729
+289;Neustädter Str. 53;016816;Neuruppin;52.9215919;12.7960114
+290;Bahnhofstr. 23/25;018246;Bützow;53.8427527;11.9975118
+291;Rostocker Str. 11;017213;Malchow;53.4811002;12.4220891
+292;Potsdamer Str. 39-42;014469;Potsdam-Bornim;52.4183634;13.0172827
+293;Wulkower Chaussee 5;016827;Alt Ruppin;52.945446;12.8494724
+294;Wustermarker Allee 16;014656;Brieselang;52.5802247;12.9984702
+295;Zeppelinstr. 56;014471;Potsdam-West;52.3906478;13.0305027
+296;Platz Der Freundschaft 14;018273;Güstrow;53.7772082;12.1772284
+297;Vorstadt Neumarkt 5-7;014913;Jüterbog;51.990697;13.0892579
+298;Berliner Str. 121;014467;Potsdam-Berliner Vorstadt;52.4073551;13.0749798
+299;Warener Chaussee 6;017207;Röbel;53.3850457;12.6033645
+300;Horstweg 98;014478;Potsdam-Schlaatz;52.3788424;13.08459
+301;Wilmsstr. 57;014624;Dallgow-Döberitz;52.5423748;13.0629424
+302;Rostocker Chaussee 3;018273;Güstrow;53.8053998;12.184826
+303;Schulstr. 9;018236;Kröpelin;54.0700223;11.8030317
+304;Ruppiner Str. 57;016766;Kremmen;52.764871;13.0267695
+305;Falkenhagener Str. 86;014612;Falkensee;52.5714753;13.0896864
+306;Zum Kirchsteigfeld 12;014480;Potsdam-Kirchsteigfeld;52.3666811;13.1295194
+307;Großbeerenstr. 265;014480;Potsdam-Am Stern;52.380299;13.131142
+308;Hermannstr. 24;018225;Kühlungsborn;54.1511293;11.7331029
+309;Heerstr. 640;013591;Berlin-Spandau;52.5274945;13.1277617
+310;Berliner Str. 41;016831;Rheinsberg;53.0941603;12.8995851
+311;Kladower Damm 363-365;014089;Berlin-Kladow;52.4550422;13.1459617
+312;Schützenstr. 46;014943;Luckenwalde;52.0979129;13.1797738
+313;Seegefelder Weg 391;013591;Berlin-Spandau;52.5462278;13.1428414
+314;Doberaner Str. 30C;018258;Schwaan;53.94512;12.09853
+315;Berliner Tor 3;014959;Trebbin;52.2210243;13.218309
+316;Am Omnibushof 13;013593;Berlin-Spandau;52.5180782;13.1841149
+317;Rostocker Str. 2-4;018209;Bad Doberan;54.102619;11.9044763
+318;Wannseestr. 17;014532;Stahnsdorf;52.3934084;13.2109581
+319;Seeburger Str. 18;013581;Berlin-Spandau;52.52780869999999;13.1884328
+320;Falkenseer Damm 19;013585;Berlin-Spandau;52.5432638;13.1980431
+321;Karl-Marx-Str. 38-42;014532;Kleinmachnow;52.4151423;13.2249832
+322;Neuendorfer Str. 30;013585;Berlin-Spandau;52.5456927;13.2085083
+323;Rosa-Luxemburg-Platz 1;016761;Hennigsdorf;52.6422974;13.1928002
+324;Poststr. 20;016727;Velten;52.686853;13.1775962
+325;Elbestr. 1;014513;Teltow;52.39955879999999;13.2515694
+326;Am Bahnhof 2A;014974;Ludwigsfelde;52.297298;13.266406
+327;Strelitzer Str. 38;017192;Waren;53.5150702;12.6989123
+328;Nonnendammallee 175;013599;Berlin-Spandau;52.5395804;13.2336053
+329;Mühlenstr. 2;014167;Berlin-Zehlendorf;52.42953;13.2602
+330;Charlottenburger Chaussee 18;013597;Berlin-Spandau;52.5260487;13.2414723
+331;Eichenallee 41;016767;Leegebruch;52.7238274;13.1884769
+332;Teltower Damm 295;014167;Berlin-Zehlendorf;52.4068574;13.2693367
+333;Hüttenweg 50;014195;Berlin-Zehlendorf;52.4575061;13.2633506
+334;Clayallee 278;014169;Berlin-Zehlendorf;52.4417026;13.2668307
+335;Ruppiner Chaussee 401;013503;Berlin-Reinickendorf;52.6250807;13.229299
+336;Märkische Allee 85;014979;Großbeeren;52.3561;13.28901
+337;Curtiusstr. 36;012205;Berlin-Lichterfelde;52.4409529;13.2901247
+338;Wismarer Str. 35;012207;Berlin-Lichterfelde;52.4207895;13.299449
+339;Fürstenbrunner Weg 14-18;014059;Berlin-Charlottenburg;52.5200957;13.2810828
+340;Sophie-Charlotten-Str. 31;014059;Berlin-Charlottenburg;52.51547;13.28729
+341;Seesener Str. 10-13;010709;Berlin-Wilmersdorf;52.49157630000001;13.2982549
+342;Gervinusstr. 30;010629;Berlin-Charlottenburg;52.5029541;13.2984499
+343;Satower Str. 7D;018059;Rostock-Süd;54.0766062;12.0997124
+344;Tschaikowskistr. 39;018069;Rostock-Reutershagen;54.08775989999999;12.0873085
+345;Karolinenstr. 1-2;013507;Berlin-Reinickendorf;52.5943605;13.2820926
+346;Berliner Str. 49;016515;Oranienburg;52.748239;13.2372684
+347;Hindenburgdamm 94;012203;Berlin-Lichterfelde;52.4420065;13.3153943
+348;Wilmersdorfer Str. 126;010627;Berlin-Charlottenburg;52.5097818;13.3062582
+349;Rothenburgstr. 38A;012163;Berlin-Steglitz;52.45853;13.31888
+350;Maxim-Gorki-Str. 66/67;018106;Rostock-Evershagen;54.1170948;12.053026
+351;Lise-Meitner-Str. 6;010589;Berlin-Charlottenburg;52.5278327;13.307553
+352;Backofenweg 4;016540;Hohen Neuendorf;52.6726652;13.276647
+353;Schlossstr. 1;012163;Berlin;52.4648189;13.3265858
+354;Birkbuschstr. 54;012167;Berlin-Steglitz;52.4444131;13.3313959
+355;Backofenweg 13;016540;Hohen Neuendorf;52.6730135;13.276874
+356;Kaiser-Wilhelm-Str. 6;012247;Berlin-Lankwitz;52.4303255;13.3330431
+357;Knesebeckstr. 47/48;010719;Berlin-Charlottenburg;52.5006346;13.3212159
+358;Bergstr. 86;012169;Berlin-Steglitz;52.4584308;13.3300126
+359;Berliner Str. 26/27;010715;Berlin-Wilmersdorf;52.48676769999999;13.3249204
+360;Wiesbadener Str. 1;016515;Oranienburg;52.75396569999999;13.2561338
+361;Am Fischereihafen 3;018069;Rostock-Reutershagen;54.1096076;12.0847845
+362;Hauptstr. 100;016547;Birkenwerder;52.6939268;13.2759795
+363;Meinekestr. 22;010719;Berlin-Charlottenburg;52.501904;13.3293474
+364;Doberaner Str. 144;018057;Rostock-Vorstadt;54.0893455;12.1213545
+365;Warnowallee 20A;018107;Rostock-Lütten Klein;54.1387716;12.0449034
+366;Holzhauser Str. 168;013509;Berlin-Borsigwalde;52.586773;13.316378
+367;Innsbrucker Platz (im U-Bahnhof);010827;Berlin-Schöneberg;52.478157;13.344182
+368;Stephan-Jantzen-Ring 50A;018106;Rostock-Schmarl;54.12973969999999;12.0704653
+369;Berliner Str. 141;013467;Berlin-Reinickendorf;52.6129924;13.3152787
+370;Waldstr. 14-21;013403;Berlin-Reinickendorf;52.57632359999999;13.3256639
+371;Kaiser-Wilhelm-Str. 127;012247;Berlin-Lankwitz;52.4410733;13.353142
+372;Marienfelder Allee 202;012279;Berlin-Marienfelde;52.40856650000001;13.358021
+373;Vorarlberger Damm 24/26;012157;Berlin-Schöneberg;52.4696253;13.3498835
+374;Ollenhauerstr. 7/ Friedrich-Karl-Str. 1-2;013403;Berlin-Reinickendorf;52.5646755;13.3296208
+375;Neubrandenburger Str. 10-11;018055;Rostock-Kassebohm;54.0791662;12.1582642
+376;Steglitzer Damm 95;012137;Berlin;52.4501807;13.354662
+377;Steglitzer Damm 95;012169;Berlin-Steglitz;52.4501807;13.354662
+378;Malteserstr. 162;012277;Berlin-Marienfelde;52.4174281;13.3620137
+379;Hauptstr. 122;010827;Berlin-Schöneberg;52.4827164;13.3508006
+380;Kleiststr. 3-6;010787;Berlin-Schöneberg;52.5004639;13.3508396
+381;Schiffbauerring 1;018109;Rostock-Groß Klein;54.1454873;12.0686113
+382;Gaffelschoner Weg 15;018055;Rostock-Mitte;54.091787;12.1494743
+383;Potsdamer Str. 203;010783;Berlin-Schöneberg;52.49171;13.36114
+384;Bahnhofstr. 14;017166;Teterow;53.7700212;12.5803216
+385;Quitzowstr. 23;010559;Berlin-Mitte;52.5357771;13.3527183
+386;Müllerstr. 48/48A;013349;Berlin-Mitte;52.5524938;13.3501086
+387;Roedernallee 49-50;013407;Berlin-Reinickendorf;52.5859952;13.3422177
+388;Güstrower Str. 8;018109;Rostock-Lichtenhagen;54.1524426;12.0665234
+389;Manteuffelstr. 24-25;012103;Berlin-Tempelhof;52.4587838;13.3755654
+390;Großbeerenstr. 2;012107;Berlin-Tempelhof;52.4391942;13.3797526
+391;Dudenstr. 90;010965;Berlin-Tempelhof;52.4854183;13.3727139
+392;Kreuzbergstr. 40;010965;Berlin-Schöneberg;52.4897871;13.3749247
+393;Ullsteinstr. 135;012109;Berlin;52.4525514;13.3853223
+394;Tempelhofer Damm 215-219;012099;Berlin-Tempelhof;52.4567608;13.3843313
+395;Säntisstr. 49;012277;Berlin-Marienfelde;52.4191313;13.3906928
+396;Hinrichsdorfer Str. 13B;018146;Rostock-Dierkow;54.1073891;12.1582148
+397;Markstr. 39-42;013409;Berlin-Reinickendorf;52.5615605;13.3650217
+398;Tempelhofer Damm 130;012099;Berlin-Tempelhof;52.4679941;13.3848239
+399;Nuthestr. 5;012307;Berlin-Lichtenrade;52.397369;13.3913213
+400;Berliner Damm 159-161;015831;Mahlow;52.3528409;13.4053089
+401;Luisenstr. 52;010117;Berlin-Mitte;52.5245101;13.3795398
+402;Reinickendorfer Str. 41/ Wiesenstr. 31;013347;Berlin-Mitte;52.54930340000001;13.3694118
+403;Stresemannstr. 72-78;010963;Berlin-Kreuzberg;52.503618;13.384007
+404;Lichtenrader Damm 219;012305;Berlin-Lichtenrade;52.39294940000001;13.4072589
+405;Quickborner Str. 66-70;013439;Berlin-Reinickendorf;52.6041229;13.3680129
+406;Provinzstr. 30;013409;Berlin-Mitte;52.5651926;13.378629
+407;Badstr. 60;013357;Berlin-Mitte;52.5509451;13.3832878
+408;Charlottenstr. 2;010969;Berlin-Kreuzberg;52.5052573;13.3932607
+409;Prinzenallee 75-77;013357;Berlin-Mitte;52.55533;13.38246
+410;Leipziger Str. 45B;010117;Berlin-Mitte;52.51049159999999;13.3966665
+411;Swienskuhlenstr. 6;018147;Rostock;54.12893;12.1563299
+412;Brunnenstr. 87;013355;Berlin-Mitte;52.5445529;13.3916325
+413;Oberlandstr. 17;012099;Berlin-Tempelhof;52.4651943;13.4161836
+414;Hauptstr. 67;015936;Dahme;51.8693812;13.424395
+415;Warmensteinacher Str. 57;012349;Berlin-Neukölln;52.4148284;13.4258312
+416;Stubenrauchstr. 25A;015806;Zossen;52.2253944;13.4442944
+417;Heinrich-Heine-Str. 70;010179;Berlin-Mitte;52.5066421;13.4124193
+418;Bornholmer Str. 65;010439;Berlin-Pankow;52.5539683;13.4009377
+419;Grabbeallee 27/29;013156;Berlin-Pankow;52.5737677;13.3985265
+420;Oranienplatz 4;010999;Berlin-Kreuzberg;52.5020746;13.4144527
+421;Choriner Str. 64/64A;010435;Berlin-Pankow;52.5345904;13.4081353
+422;Tempelhofer Weg 14;012347;Berlin-Tempelhof;52.4579854;13.4239153
+423;Kottbusser Str. 16A;010999;Berlin-Kreuzberg;52.4970459;13.4200424
+424;Buckower Damm 194;012349;Berlin-Neukölln;52.42631189999999;13.4342794
+425;Holzmarktstr. 3;010179;Berlin-Mitte;52.5147023;13.419061
+426;Hermannstr. 55;012049;Berlin-Neukölln;52.4769431;13.4260943
+427;Dietzgenstr. 102;013158;Berlin-Pankow;52.59173930000001;13.403353
+428;Berliner Str. 27-28;013189;Berlin-Pankow;52.5636918;13.4123109
+429;Gutschmidtstr. 101;012359;Berlin-Neukölln;52.4394172;13.4367748
+430;Glasower Str. 42;012051;Berlin-Neukölln;52.4638352;13.4353219
+431;Maybachufer 32-33;012047;Berlin-Neukölln;52.49217059999999;13.4313502
+432;Flughafenstr. 1;012053;Berlin-Neukölln;52.48171;13.4333699
+433;Prenzlauer Allee 44;010405;Berlin-Prenzlauer Berg;52.5362471;13.4232349
+434;Wisbyer Str. 16;010439;Berlin-Pankow;52.5525613;13.4214493
+435;Zeughofstr. 23A;010997;Berlin-Kreuzberg;52.500688;13.4346299
+436;Donaustr. 96;012043;Berlin-Neukölln;52.4810115;13.4386204
+437;Greifswalder Str. 33A;010405;Berlin-Pankow;52.5331384;13.4305039
+438;Prenzlauer Allee 93;010409;Berlin-Pankow;52.5464764;13.4295037
+439;Friedenstr. 94A;010249;Berlin-Friedrichshain;52.52242;13.43514
+440;Lahnstr. 61;012055;Berlin-Neukölln;52.4679332;13.4464716
+441;Prenzlauer Promenade 65-67;013089;Berlin Pankow;52.5674633;13.4279862
+442;Späthstr. 162;012359;Berlin-Neukölln;52.453201;13.4547051
+443;Sonnenallee 192;012059;Berlin-Neukölln;52.4752088;13.4510399
+444;Roelckestr. 172;013086;Berlin-Pankow;52.5504656;13.4405612
+445;Warschauer Platz 14;010245;Berlin-Friedrichshain;52.5049749;13.4501209
+446;Lipschitzallee 50;012353;Berlin-Neukölln;52.42633379999999;13.4645262
+447;Kniprodestr. 26;010407;Berlin-Pankow;52.5343739;13.4457341
+448;Strelitzer Str. 2;017235;Neustrelitz;53.3620813;13.0642796
+449;Pasewalker Str. 77;013127;Berlin-Pankow;52.5934458;13.432809
+450;Kiefholzstr. 386;012435;Berlin-Treptow;52.4844972;13.4616863
+451;Blankenburger Str. 17A;013089;Berlin-Heinersdorf;52.5714304;13.443975
+452;Pistoriusstr. 66/67;013086;Berlin-Pankow;52.5562;13.43728
+453;Markgrafendamm 25C;010245;Berlin-Friedrichshain;52.5003545;13.4654333
+454;Neuköllner Str. 236-238;012357;Berlin-Neukölln;52.4266728;13.4806334
+455;Rigaer Straße 36-39;010247;Berlin-Friedrichshain;52.515878;13.4660016
+456;Boxhagener Str. 76-78;010245;Berlin-Friedrichshain;52.5075327;13.468957
+457;Eldenaer Str. 34A;010247;Berlin-Friedrichshain;52.520974;13.4676691
+458;Indira-Gandhi-Str. 101;013053;Berlin-Hohenschönhausen;52.5462204;13.4692304
+459;Bahnhofstr. 47;016792;Zehdenick;52.9771004;13.3284668
+460;Kiefholzstr. 189;012437;Berlin-Treptow;52.4640066;13.4873775
+461;Möllendorffstr. 75A;010369;Berlin-Lichtenberg;52.5225824;13.4776186
+462;Berliner Allee 300;013088;Berlin-Pankow;52.5643976;13.4710381
+463;Hauptstr. 63;016348;Wandlitz-Schönwalde;52.6859833;13.4417835
+464;Hauptstr. 63;016352;Schönwalde;52.6859833;13.4417835
+465;Ruschestr. 64-70;010365;Berlin-Lichtenberg;52.5213376;13.4868469
+466;Stavenhagener Str. 79;017139;Malchin;53.74043229999999;12.7730651
+467;Frankfurter Allee 212;010365;Berlin-Lichtenberg;52.51138359999999;13.4925265
+468;Blankenburger Chaussee;013125;Berlin Karow;52.6045799;13.4750567
+469;Am Erlenhain 2;018190;Sanitz;54.0782349;12.36452
+470;Altglienicker Chaussee 13;012529;Schönefeld/ Berlin;52.3997469;13.521661
+471;Große Leege Str. 95;013055;Berlin;52.5434931;13.4975809
+472;Einbecker Str. 59;010315;Berlin-Lichtenberg;52.5095179;13.5052379
+473;Wilhelminenhofstr. 83-85;012459;Berlin-Treptow;52.46143379999999;13.5174596
+474;Malchower Weg 134;013053;Berlin-Hohenschönhausen;52.5615824;13.5015942
+475;Hammerallee 5;016559;Liebenwalde;52.8724587;13.4045731
+476;Semmelweisstr. 106;012524;Berlin-Treptow;52.4251155;13.5273029
+477;Ontarioseestr. 17;010319;Berlin-Lichtenberg;52.4950384;13.5226515
+478;Bernauer Chaussee 70;016348;Wandlitz;52.7467844;13.4644249
+479;Gehrenseestr. 11;013053;Berlin-Hohenschönhausen;52.5501395;13.514578
+480;Adlergestell 291;012489;Berlin-Treptow;52.43136939999999;13.5482253
+481;Marzahner Chaussee 189;012681;Berlin-Marzahn;52.5239152;13.5331003
+482;Märkische Allee 140A;012681;Berlin-Marzahn;52.5307707;13.5373064
+483;Paradiesstr. 210;012526;Berlin;52.40430000000001;13.56015
+484;Allee der Kosmonauten 141A;012683;Berlin-Marzahn;52.5318048;13.5488581
+485;Bruno-Taut-Str. 4;012524;Berlin-Treptow;52.4134841;13.5707378
+486;Grünauer Str. 118;012557;Berlin-Köpenick;52.4367441;13.5705023
+487;Märkische Allee 276;012679;Berlin-Marzahn;52.5565854;13.5544963
+488;Birkholzer Str. 1;016341;Zepernick;52.651125;13.5411811
+489;Cecilienstr. 161;012683;Berlin-Marzahn;52.52913479999999;13.5710573
+490;Chemnitzer Str. 174;012621;Berlin-Hellersdorf;52.4897301;13.5744569
+491;Havemannstr. 1;012689;Berlin-Marzahn;52.56976;13.5693981
+492;Wendenschloßstr. 9;012559;Berlin-Köpenick;52.4468153;13.5932077
+493;Prötzeler Ring 8;012685;Berlin-Marzahn;52.5455266;13.5750601
+494;Luckenwalder Str. 68;015711;Königs Wusterhausen;52.2881636;13.6152856
+495;Alt-Kaulsdorf 56;012621;Berlin-Hellersdorf;52.50488499999999;13.589079
+496;Dorfaue 33;015745;Wildau;52.3224977;13.6155886
+497;Feldberger Ring 1;012619;Berlin-Hellersdorf;52.5278847;13.587965
+498;Gothaer Str. 49;012629;Berlin-Hellersdorf;52.5375869;13.5903345
+499;August-Bebel-Allee 38-44;015732;Eichwalde;52.3666249;13.6192221
+500;Zossener Str. 121;012629;Berlin-Hellersdorf;52.5454644;13.5934297
+501;Fürstenwalder Damm 425;012587;Berlin-Köpenick;52.4557532;13.6179708
+502;Mark-Twain-Str. 2;012627;Berlin-Hellersdorf;52.5335238;13.6109406
+503;Schwanebecker Chaussee 84;016321;Bernau;52.6691635;13.58211
+504;Tessiner Str. 1;017179;Gnoien;53.9744165;12.6964671
+505;Mahlsdorfer Str. 82;015366;Hönow;52.5402187;13.6382899
+506;Südpromenade 6;015926;Luckau;51.85051619999999;13.7102535
+507;Bahnhofstr. 152A;016359;Biesenthal;52.7659286;13.6449557
+508;Prokopiusstr. 6;017268;Templin;53.1165007;13.5011011
+509;Hohenbinder Weg 2;015537;Erkner;52.4167796;13.7561984
+510;August-Bebel-Str. 4-5;015569;Woltersdorf;52.449341;13.753241
+511;Ernst-Thälmann-Str. 28C;015370;Fredersdorf;52.51446379999999;13.747467
+512;Freienwalder Str. 33;016356;Werneuchen;52.6296516;13.7380986
+513;Luzinweg 4;017258;Feldberg;53.3297258;13.4346507
+514;Carl-Stolte-Str. 21;017094;Burg Stargard;53.4993985;13.3163232
+515;Demminer Str. 49;017034;Neubrandenburg;53.5696007;13.2705783
+516;Schloßgutsiedlung 1;016244;Finowfurt;52.84268549999999;13.6968974
+517;Ahornstr. 6;015537;Grünheide;52.39017320000001;13.8051001
+518;Sülzer Chaussee 15A;018465;Tribsees;54.0924387;12.7505247
+519;Kruseshofer Str. 1;017036;Neubrandenburg-Ost;53.5574905;13.3061978
+520;Ernst-Thälmann-Str. 41E;018347;Wustrow;54.3515869;12.4025953
+521;Treptower Str. 1;017109;Demmin;53.900482;13.0439209
+522;Berliner Chaussee 23;015907;Lübben;51.9475467;13.8782553
+523;Fritz-Reuter-Str. 16;017087;Altentreptow;53.6933046;13.258285
+524;Heegermühler Str. 1;016225;Eberswalde-Mitte;52.8347412;13.7947923
+525;Berliner Str. 93-94;015344;Strausberg;52.568441;13.8713106
+526;Schloßstr. 5;015859;Storkow;52.25379;13.93139
+527;Freienwalder Str. 30A;016225;Eberswalde-Ostend;52.82977469999999;13.8309275
+528;August-Bebel-Str. 65A;015517;Fürstenwalde;52.3399021;14.073575
+529;Am Mastweg 1;018356;Barth;54.3622223;12.7115113
+530;Stralsunder Str. 8;018507;Grimmen;54.1161132;13.0424001
+531;Neubrandenburger Str. 16A;017098;Friedland;53.6631951;13.544475
+532;Altranfter Str. 4-8;016259;Bad Freienwalde;52.7710732;14.0681105
+533;Ernst-Thälmann-Str. 22;015374;Müncheberg;52.5020062;14.1460142
+534;Schwedter Str. 36;016278;Angermünde;53.0168386;14.0171306
+535;Stettiner Str. 47;017291;Prenzlau;53.3216298;13.8645136
+536;Jüteritzer Str. 16;017335;Strasburg;53.5051236;13.7506784
+537;Frankfurter Str. 11;016269;Wriezen;52.7126312;14.1313362
+538;Greifswalder Str. 1;017506;Gützkow;53.9417992;13.4040451
+539;Fürstenwalder Str. 9;015848;Beeskow;52.1830526;14.2435778
+540;Am Langendorfer Berg 1;018442;Lüssow;54.302417;13.0205827
+541;Feldstr. 1;018437;Stralsund-Tribseer Wiesen;54.3022284;13.0753802
+542;Feldstr. 1;018439;Stralsund;54.3022298;13.07537
+543;Heinrich von Stephan Str. 6;018439;Stralsund;54.3272061;13.065065
+544;Heinrich-von-Stephan-Str. 6;018435;Stralsund-Knieper;54.3272061;13.065065
+545;Gützkower Landstr. 12;017489;Greifswald-Industriegebiet;54.0818129;13.3815745
+546;Anklamer Str. 30;017489;Greifswald-Mühlenvorstadt;54.09026069999999;13.3952931
+547;Hasenwinkel 36;017491;Greifswald-Schönwalde;54.0805506;13.4289732
+548;Pasewalker Allee 84;017389;Anklam;53.84427489999999;13.712299
+549;Diedersdorfer Str. 1;015306;Seelow;52.5314474;14.3713346
+550;Lindenstr. 21;017309;Pasewalk;53.5093354;13.9984039
+551;Lindenstr. 33;017309;Pasewalk;53.5087309;14.0038861
+552;Bäckerstr. 1A;016303;Schwedt-West;53.0677362;14.2633855
+553;Berliner Str. 60F;016303;Schwedt;53.0616569;14.2955262
+554;Pasewalker Str. 6;017358;Torgelow;53.62856379999999;14.0146652
+555;Rathenaustr. 4;015234;Frankfurt/ Oder;52.3483033;14.51489
+556;Weinbergweg 36;015232;Frankfurt/ Oder;52.3340059;14.52734
+557;Chausseestr. 4C;017373;Ueckermünde;53.7375356;14.0419452
+558;Chausseestr. 17;017438;Wolgast;54.0508643;13.7680985
+559;Karl-Marx-Str. 35;015890;Eisenhüttenstadt;52.1470632;14.6379575
+560;Gingster Chaussee 7;018528;Bergen;54.4244133;13.4135452
+561;Salzhorstweg 9B;017454;Zinnowitz;54.0792242;13.9037469
+562;Proraer Chaussee 3;018609;Binz;54.401538;13.6031669
+563;Göhrener Chaussee 1A;018586;Baabe;54.3629703;13.7060833
+564;Ahlbecker Chaussee 9;017429;Bansin;53.96470780000001;14.1320861
+565;Glower Str. 31;018551;Sagard;54.528366;13.5444759
+566;Am Lanckener Gutshof 38;018546;Sassnitz-Lancken;54.5164349;13.6058471
+567;Nienburger Str. 62A;027232;Sulingen;52.6831138;8.822725
+568;Lindenstr. 81-83;027239;Twistringen;52.791905;8.6320939
+569;Bremer Str. 42;027711;Bassum;52.8505748;8.7286711
+570;Bremer Str. 42;027211;Bassum;52.8523198;8.728062399999999
+571;Am Bahnhof 19-21;027305;Bruchhausen-Vilsen;52.8281417;8.9966204
+572;Auf dem Kuhkamp 26;027318;Hoya;52.81083839999999;9.137942599999999
+573;Westring 5;027793;Wildeshausen;52.895973;8.4147384
+574;Waldstr. 1;027243;Harpstedt;52.9096338;8.5984916
+575;Herrlichkeit 27;028857;Syke;52.9157385;8.8272576
+576;Mönkeberg 3;029690;Schwarmstedt;52.6823437;9.612739999999999
+577;Alte Hauptstr. 2;028844;Weyhe;52.9815529;8.8421807
+578;Mühlenstr. 5;027321;Thedinghausen;52.9595974;9.020307599999999
+579;Johanniswall 1-7;027283;Verden;52.9225333;9.2319784
+580;Berliner Ring 1;027283;Verden;52.9206709;9.251738399999999
+581;Annenheider Str. 197;027755;Delmenhorst-Hasport;53.0258224;8.650225899999999
+582;Lange Str. 20;027777;Ganderkesee;53.03038859999999;8.5505201
+583;Carl-Zeiss-Str. 17;028816;Stuhr-Brinkum;53.0281682;8.799999999999999
+584;Hannah-Arendt-Str. 2;027753;Delmenhorst-Deichhorst;53.0418102;8.594321599999999
+585;Dovemoor Str. 10;028259;Bremen-Kirchhuchting;53.038187;8.7258335
+586;Arsterdamm 180;028279;Bremen-Arsten;53.0343954;8.8452568
+587;Verdener Str. 74;028832;Achim-Baden;53.0002797;9.068091299999999
+588;Bremer Str. 106;027751;Delmenhorst-Iprump;53.0539447;8.649769899999999
+589;Hauptstr. 85;027299;Langwedel-Daverden;52.9794765;9.1664143
+590;Bremer Str. 9;028832;Achim;53.0131431;9.027976599999999
+591;Arberger Heerstr. 35;028307;Bremen-Arbergen;53.0388663;8.911396100000001
+592;Huchtinger Heerstr. 57;028259;Bremen-Huchting;53.0585538;8.731888699999999
+593;Friesoyther Str. 14;026219;Bösel;53.0064788;7.9501269
+594;Kornstr. 305;028201;Bremen-Buntentor;53.0546133;8.8124487
+595;Oldenburger Str. 324;026203;Wardenburg;53.0536192;8.2024144
+596;Reiherweg;026203;Wardenburg;53.05657619999999;8.202010699999999
+597;Osterholzer Heerstr. 159;028307;Bremen-Osterholz;53.0569986;8.947573199999999
+598;Hastedter Heerstr. 19;028207;Bremen-Hastedt;53.0689369;8.8569663
+599;Langenstr. 25-29;028195;Bremen-Mitte;53.0768121;8.804553
+600;Woltmershauser Str. 436-440;028197;Bremen-Woltmershausen;53.0850572;8.7632309
+601;Ellerbrocker Str. 1;026169;Friesoythe;53.0181777;7.856410700000001
+602;Quintusstr. 133;029664;Walsrode;52.86682680000001;9.617068999999999
+603;In der Vahr 51;028329;Bremen-Vahr;53.0809457;8.8752177
+604;Poststr. 30;029308;Winsen;52.6826399;9.9116538
+605;Ostlandstr. 2A;029313;Hambühren;52.6339343;9.967526
+606;Wehlacker 2;028876;Oyten;53.0593515;9.0269239
+607;Schevemoorer Landstr. 78-80;028325;Bremen-Osterholz;53.0749343;8.9501504
+608;Kieler Str. 2;028219;Bremen-Walle;53.0979018;8.7943791
+609;Dr.Gustav-Thye-Str. 4;027798;Hude;53.111866;8.4567666
+610;Hemmstr. 340;028215;Bremen-Findorff;53.1014536;8.8132307
+611;AG-Weser-Str. 3;028237;Bremen;53.1110907;8.749430799999999
+612;Gröpelinger Heerstr. 43-45;028237;Bremen-Gröpelingen;53.1109173;8.7698275
+613;Leher Heerstr. 126;028357;Bremen-Lehe;53.1016497;8.8840399
+614;Düshorner Str. 16;029683;Bad Fallingbostel;52.8635986;9.6876414
+615;Cloppenburger Str. 405;026133;Oldenburg-Kreyenbrück;53.1074053;8.2081397
+616;Fuhrberger Str. 139;029225;Celle;52.6109495;10.0389893
+617;Poststr. 32-36;026897;Esterwegen;52.991452;7.628492199999999
+618;Hundsmühler Str. 147;026131;Oldenburg-Eversten;53.12024;8.192381899999999
+619;Bremer Heerstr. 75;026135;Oldenburg-Osternburg;53.11996689999999;8.261058
+620;Hannoversche Str. 32;029221;Celle;52.6144706;10.080101
+621;Nienhagener Str. 1;029339;Wathlingen;52.53977219999999;10.1455747
+622;Baumschulenweg 5;029227;Celle;52.5996155;10.1063148
+623;Hansering 2;027809;Lemwerder;53.1575819;8.6074354
+624;Telefunkenstr. 49;029223;Celle;52.6391022;10.0760914
+625;Wehdestr. 10;026123;Oldenburg-Donnerschwee;53.1499787;8.2377194
+626;Brüderstr. 53;026160;Petersfehn;53.1384266;8.1081566
+627;Stader Landstr. 2-6;028719;Bremen-Lesum;53.167421;8.7029731
+628;Hauptstr. 99;026188;Edewecht;53.1218729;7.975494599999998
+629;Melkbrink 68-72;026121;Oldenburg-Bürgerfelde;53.1565507;8.2015309
+630;Ammerländer Heerstr. 274;026129;Oldenburg-Wechloy;53.1566213;8.171078099999999
+631;Falkenberger Landstr. 36;028865;Lilienthal;53.1530543;8.922871599999999
+632;Hammersbecker Str. 57-59;028755;Bremen-Aumund;53.184081;8.6254203
+633;Lüssumer Str. 117;028779;Bremen-Lüssum;53.1922282;8.5739676
+634;Wilhelmshavener Heerstr. 51;026125;Oldenburg-Nadorst;53.1735528;8.228292099999999
+635;Soltauer Str. 8;027374;Visselhövede;52.9898302;9.5889283
+636;Alexander Str. 444;026127;Oldenburg-Alexandersfeld;53.1773756;8.189369899999999
+637;Alexanderstr. 444;026121;Oldenburg;53.1773756;8.189369899999999
+638;Lienworth 10;027367;Sottrum;53.1142009;9.230597
+639;Herrhausenstr. 2-4;027721;Ritterhude;53.1932909;8.7545858
+640;Celler Str. 51;029303;Bergen;52.8014109;9.969088099999999
+641;Farger Str. 113;028777;Bremen-Farge;53.2059141;8.522557299999999
+642;Hauptstr. 69;026892;Dörpen;52.9674152;7.336496100000001
+643;Kirchdamm 1B;028879;Grasberg-Wörpedorf;53.1851303;8.983056099999999
+644;Hauptstr. 490;026683;Ramsloh;53.103783;7.674894699999999
+645;Blumenthaler Str. 1;028790;Schwanewede;53.2247663;8.5949349
+646;Brauerstr. 3-9A;027356;Rotenburg/ Wümme;53.1028242;9.3976826
+647;Westersteder Str. 2A;026160;Bad Zwischenahn;53.1829703;7.9956041
+648;Oberrege 12-12A;026931;Elsfleth;53.2341144;8.4542378
+649;Lise-Meitner-Str. 1;028790;Schwanewede;53.2334175;8.6886836
+650;Ackerstr. 3-5;029331;Lachendorf;52.6204555;10.2435022
+651;Am Pumpelberg 7;027711;Osterholz-Scharmbeck;53.2327114;8.7759184
+652;Brockeler Str. 1;027356;Rotenburg/ Wümme;53.1201932;9.4255395
+653;Osterweder Str. 3;027726;Worpswede;53.227349;8.9289446
+654;Oldenburger Str. 137;026180;Rastede;53.23644710000001;8.1999885
+655;Friesoyther Str. 22;026676;Barßel;53.16243249999999;7.751571200000001
+656;Idafehn Mitte 4;026842;Ostrhauderfehn-Idafehn;53.13761539999999;7.6333726
+657;Bolwinsweg 3-5;026871;Papenburg-Obenende;53.0721552;7.439495600000001
+658;Delmser Dorfstr. 7;029643;Neuenkirchen;53.0395294;9.707814899999999
+659;Karl-Hillers-Str. 10;026871;Papenburg-Untenende;53.0788101;7.3878819
+660;Am Alten Stadtgraben 5;029614;Soltau;52.9860085;9.8384868
+661;Rosmarinheide 46A;026817;Westrhauderfehn;53.13317;7.568919999999999
+662;Wemkendorfer Weg 1;026215;Wiefelstede;53.2550888;8.1180527
+663;Mühlenstr. 9;026871;Aschendorf;53.0519484;7.3359517
+664;Hauptstr. 484-486;026689;Apen-Augustfehn;53.2160141;7.7614781
+665;Königstr. 143;026810;Westoverledingen-Flachsmeer;53.1257663;7.4605206
+666;Lange Str. 59;026655;Westerstede;53.2603132;7.9189539
+667;Hauptstr. 34;027729;Hambergen;53.3074659;8.8361998
+668;Weserstr. 78;026919;Brake;53.3359726;8.4672547
+669;Müdener Weg 19;029328;Faßberg;52.8952232;10.1586428
+670;Döhrenacker 4;027628;Hagen;53.3581223;8.6559358
+671;Harburger Str. 11;029640;Schneverdingen;53.1198957;9.7908431
+672;Bremer Str. 51;027404;Zeven;53.2944176;9.2653577
+673;Mühlenstr. 1;026826;Weener;53.1629085;7.350213099999999
+674;Kivinanstr. 41;027404;Zeven;53.2986307;9.2750504
+675;Goethestr. 19;029392;Wesendorf;52.5927239;10.5378713
+676;Ostertorstr. 75;026670;Uplengen-Remels;53.30678349999999;7.7540929
+677;Kohlenbissener Grund 11;029633;Munster;52.98895700000001;10.1083461
+678;Papenburger Str. 13;026789;Leer;53.2319404;7.4772512
+679;Ubbo-Emmius-Str. 93;026789;Leer;53.22995419999999;7.439449
+680;Heisfelder Str. 219;026789;Leer-Heisfelde;53.2435797;7.456576
+681;Soltauer Str. 1;029646;Bispingen;53.0814913;9.995484399999999
+682;Hindenburgstr. 81-87;027442;Gnarrenburg;53.3832253;9.001380300000001
+683;Neuschanzerstr. 22;026831;Bunde;53.1839504;7.263438999999999
+684;Stader Str. 13;027419;Sittensen;53.28598940000001;9.505352499999999
+685;Gertrud-Barthel-Str. 8;026316;Varel;53.3976902;8.1226111
+686;Im Brink 1;026835;Hesel;53.29918010000001;7.5955454
+687;Steinhauser Str. 25-29;026345;Bockhorn;53.3972122;8.016306199999999
+688;Logestr. 42-44;027616;Beverstedt;53.43280499999999;8.8268326
+689;Rudolf-Eucken-Str. 26;026802;Moormerland-Warsingsfehn;53.3083792;7.4889226
+690;Ohrbült 4;026340;Zetel;53.4178347;7.975550299999999
+691;Zinnhütte 10;021255;Tostedt;53.2692822;9.729393499999999
+692;Parkstr. 4;027612;Loxstedt;53.4749767;8.6519129
+693;Friedrich-Ebert-Str. 77-81;026954;Nordenham;53.491831;8.485165
+694;Carsten-Börger-Str. 10;027572;Bremerhaven-Wulsdorf;53.49229889999999;8.598457
+695;Amaryllisweg 7;026639;Wiesmoor;53.4190558;7.7370356
+696;Postweg 28A;026629;Ostgroßefehn;53.4003141;7.605285200000001
+697;Georg-Seebeck-Str. 44;027570;Bremerhaven-Geestemünde;53.526397;8.5930298
+698;Schiffdorfer Chaussee 225;027574;Bremerhaven-Schiffdorferdamm;53.5314831;8.6327416
+699;Alte Str. 35;027432;Bremervörde;53.4869823;9.1414142
+700;Am Markt 7;026452;Sande;53.5043728;8.0117469
+701;Elbestr. 124;027570;Bremerhaven-Geestemünde;53.5460541;8.5937802
+702;Güterstr. 86;026389;Wilhelmshaven-Ebkeriege;53.5213394;8.0715373
+703;Hauptstr. 25-27;021279;Hollenstedt;53.36646;9.7089
+704;Mitscherlichstr. 60-62;026382;Wilhelmshaven-Mitte;53.5279275;8.1071666
+705;Georg-Marwede-Str. 34;029574;Ebstorf;53.0207983;10.4211593
+706;Knesebecker Str. 2 - 8;029378;Wittingen;52.7254624;10.7382621
+707;Soltauer Str. 93;021244;Buchholz;53.3143852;9.8796064
+708;Barkhausenstr. 113;027568;Bremerhaven-Mitte;53.5587287;8.5650426
+709;Ulmenstr. 3-5;026725;Emden-Borssum;53.3453288;7.227649599999999
+710;Freiligrathstr. 195;026386;Wilhelmshaven-Neuengroden;53.54629809999999;8.119084299999999
+711;Zimmererstr. 1;021244;Buchholz-Steinbeck;53.3450998;9.8582928
+712;Neustädter Str. 29;029389;Bad Bodenteich;52.8368674;10.6830634
+713;Twischlehe 16;027580;Bremerhaven-Lehe;53.5792796;8.5966332
+714;Jadestr. 7-9;026419;Schortens;53.54020999999999;7.950279999999998
+715;Hauenriede 1;029525;Uelzen;52.9696721;10.548634
+716;Neufelder Weg 4;027619;Schiffdorf-Spaden;53.5821362;8.6301536
+717;Folkmar-Allena-Str. 2;026725;Emden-Wolthusen;53.3743031;7.236197499999999
+718;Buxtehuder Str. 17;021698;Harsefeld;53.4565448;9.5115482
+719;Raiffeisenstr. 12;026603;Aurich;53.46012469999999;7.497739500000001
+720;Beim Butterberge 1-13;021641;Apensen;53.4420529;9.627886
+721;Wilhelm-Leuschner-Str. 20;027578;Bremerhaven-Leherheide;53.5919041;8.6170565
+722;Bernhard Nigebur Str. 6;029525;Uelzen;52.9710508;10.5712121
+723;Leher Landstr. 92-94;027607;Langen;53.5955745;8.5979951
+724;Teutonenstr. 1;026723;Emden-Constantia;53.3673704;7.1883225
+725;Posener Str. 113;026388;Wilhelmshaven-Fedderwardergroden;53.57362699999999;8.0809021
+726;Emder Str. 27;026607;Aurich;53.4700429;7.4662808
+727;Fritz-Reuter-Str. 6;026721;Emden-Harsweg;53.3896376;7.209843100000001
+728;Sieverner Str. 22;027607;Geestland-Langen;53.6103719;8.5950039
+729;Hooksweg 9;026441;Jever;53.5757427;7.9073092
+730;Cuxhavener Str. 183;021614;Buxtehude-Hedendorf;53.4830954;9.6219757
+731;Bei der Fischtreppe 2;021614;Buxtehude;53.4648044;9.693795
+732;Auricher Str. 98;026624;Südbrookmerland-Moordorf;53.47719739999999;7.398170899999999
+733;Handelspark 20;027624;Bad Bederkesa;53.6285709;8.8102392
+734;Finkenburgstr. 32-34;026409;Wittmund;53.5777554;7.7808284
+735;Harburger Str. 60-62;021614;Buxtehude;53.4738498;9.7140135
+736;Hauptstr. 52-54;021629;Neu Wulmstorf;53.4628222;9.7942834
+737;Röbbeler Str. 1;029549;Bad Bevensen;53.0789716;10.5896711
+738;Harvey-Benjamin-Fuller-Str. 5;021335;Lüneburg;53.2371846;10.4150698
+739;Fleestedter Ring 1;021217;Seevetal-Fleestedt;53.4100092;9.990428099999999
+740;Handelsstr. 1;026736;Pewsum;53.4273776;7.106841699999999
+741;Heibensweg 3;021220;Seevetal-Maschen;53.39170799999999;10.035506
+742;Cuxhavener Str. 407;021149;Hamburg-Fischbek;53.4718916;9.8391492
+743;Poststr. 18-22;027632;Dorum;53.6861891;8.5628647
+744;Haddorfer Grenzweg 20;021682;Stade-Haddorf;53.5974083;9.4238871
+745;Cuxhavener Str. 126-128;021149;Hamburg-Hausbruch;53.4721602;9.8933273
+746;Harburger Str. 99;021680;Stade;53.5892127;9.4877488
+747;Bremer Str. 181;021073;Hamburg-Eißendorf;53.4483981;9.963326499999999
+748;Rönneburger Str. 23;021079;Hamburg-Wilstorf;53.442341;9.9931751
+749;Nincoper Str. 154;021129;Hamburg-Neuenfelde;53.5156029;9.793797399999999
+750;Bahnhofstr. 75;021423;Winsen;53.355764;10.2048974
+751;Keno-Tom-Brook-Str. 2;026529;Marienhafe;53.52237299999999;7.285272900000001
+752;Altländerstr. 31;021680;Stade;53.60237;9.48936
+753;Theodor-Heuss-Str. 24;021337;Lüneburg;53.2404407;10.4354831
+754;Krummholzberg 14/ Wilstorfer Straße;021073;Hamburg-Harburg;53.4572026;9.983134999999999
+755;Heinrich-Steinberg-Str. 2;026434;Hohenkirchen;53.6678659;7.909935699999999
+756;Am Alten Eisenwerk 1;021339;Lüneburg;53.25954729999999;10.4104158
+757;Buxtehuder Str. 28;021073;Hamburg-Heimfeld;53.4666838;9.9734677
+758;Auricher Str. 3;026556;Westerholt;53.588959;7.4586245
+759;Otto-Peschel-Str. 2-8;021745;Hemmoor;53.68475;9.15876
+760;Bahnhofstr. 52;026427;Esens;53.6364094;7.611000400000001
+761;Große Str. 7;021357;Bardowick;53.29588;10.39271
+762;Rissener Str. 112-114;022880;Wedel;53.58356999999999;9.727549999999999
+763;Reinstorfweg 16;021107;Hamburg-Wilhelmsburg;53.50123;9.992767899999999
+764;Am Veringhof 6;021107;Hamburg-Wilhelmsburg;53.5119643;9.9859349
+765;Sülldorfer Landstr. 188;022589;Hamburg-Sülldorf;53.58061370000001;9.797728099999999
+766;Osdorfer Landstr. 403;022589;Hamburg-Iserbrook;53.5757145;9.8244714
+767;Behringstr. 154;022763;Hamburg-Othmarschen;53.5569351;9.903836799999999
+768;Osdorfer Landstr. 8-10;022607;Hamburg-Groß Flottbek;53.5704138;9.876947
+769;Paul-Nevermann-Platz 15;022765;Hamburg;53.5521;9.934355
+770;Hauptstr. 107;026524;Hage;53.6017735;7.2736569
+771;Oderstr. 2-4;027637;Nordholz;53.7770261;8.6125631
+772;Bornheide 9;022549;Hamburg-Osdorf;53.5823771;9.8553628
+773;Bahrenfelder Chaussee 41;022761;Hamburg-Bahrenfeld;53.564491;9.9142934
+774;Kressenweg 34;022549;Hamburg-Lurup;53.5844647;9.872897499999999
+775;Gauensieker Str. 47;021706;Drochtersen;53.70696960000001;9.3889161
+776;Altonaer Chaussee 14;022869;Schenefeld;53.5994942;9.8528753
+777;Altonaer Str. 10;020357;Hamburg-Eimsbüttel;53.56382960000001;9.961463
+778;Ausschläger Allee 174;020539;Hamburg-Rothenburgsort;53.530956;10.0551134
+779;Schumacherstr. 2;021781;Cadenberge;53.7681593;9.0624095
+780;Rahel-Varnhagen-Weg 26;021035;Hamburg-Allermöhe;53.4868135;10.182297
+781;Gewerbestr. 14;026506;Norden-Norddeich;53.6026771;7.1830106
+782;Ausschläger Allee 174;020537;Hamburg;53.530956;10.0551134
+783;Steindamm 94;020099;Hamburg-St.Georg;53.5553373;10.0172134
+784;Kieler Str. 310;022525;Hamburg-Stellingen;53.5853912;9.9344939
+785;Eidelstedter Weg 24;020255;Hamburg-Lokstedt;53.5819226;9.9542213
+786;Grindelberg 53-55;020144;Hamburg-Harvestehude;53.5759218;9.9768706
+787;Kieler Str. 595;022525;Hamburg;53.60064;9.9149799
+788;Carl-Petersen-Str. 55-57;020535;Hamburg-Hamm;53.5590565;10.0459554
+789;Horner Brückenweg 12-14;022113;Hamburg-Horn;53.54496;10.08577
+790;Hübbesweg 4;020537;Hamburg-Hamm;53.5539102;10.0603294
+791;Lohbrügger Landstr. 126;021031;Hamburg-Lohbrügge;53.5047019;10.1906713
+792;Spandauer Str. 2-4;021502;Geesthacht;53.43457009999999;10.3495956
+793;Asbrookdamm 37;022115;Hamburg-Billstedt;53.5230307;10.1496721
+794;Moorreger Chaussee 4;025436;Moorrege;53.67725220000001;9.6760596
+795;Reclamstr. 19;022111;Hamburg-Billstedt;53.5394742;10.1116076
+796;Winterhuder Weg 76;022085;Hamburg-Barmbek;53.5743348;10.02327
+797;Liebesweg 4-4A;021762;Otterndorf;53.80891;8.9071243
+798;Kümmellstr. 4-8;020249;Hamburg-Eppendorf;53.59057;9.985499899999999
+799;Hamburger Landstr. 39;021465;Wentorf;53.4908453;10.251029
+800;Rennbahnstr. 115;022111;Hamburg-Horn;53.5613661;10.0791524
+801;Trift 33;021502;Geesthacht;53.4355895;10.3797526
+802;Brauhausstr. 23;022041;Hamburg-Wandsbek;53.5728065;10.0590827
+803;Borgweg 2A;022303;Hamburg-Winterhude;53.589154;10.0167962
+804;Kollaustr. 129-135;022453;Hamburg-Niendorf;53.6100693;9.9576049
+805;Dehnhaide 111;022081;Hamburg-Barmbek;53.5794071;10.0514215
+806;Berliner Str. 31;025421;Pinneberg;53.66858209999999;9.7832978
+807;Am Bornbusch 1;021039;Börnsen;53.4875932;10.2879356
+808;Pinneberger Str. 16;022457;Hamburg-Schnelsen;53.6334041;9.907441500000001
+809;Bramfelder Str. 58;022305;Hamburg-Barmbek;53.5850524;10.0511702
+810;Frohmestr. 99-105;022459;Hamburg-Schnelsen;53.6295361;9.929770399999999
+811;Gewerbering 7;022113;Oststeinbek;53.5490694;10.1572435
+812;Arendseer Str. 8;029410;Salzwedel;52.8412184;11.1727396
+813;Fuhlsbüttler Str. 184-186;022307;Hamburg-Barmbek;53.59397999999999;10.04449
+814;FLENSBURGER str. 5;025421;PINNEBERG;53.6735334;9.8007812
+815;Alsterkrugchaussee 309;022297;Hamburg-Großborstel;53.6155321;10.0023969
+816;Glüsinger Weg 1-7;021481;Lauenburg;53.3736184;10.5471665
+817;Ohlenhoff 1;025436;Tornesch;53.701429;9.7265965
+818;Sperberhorst 5-9;022459;Hamburg;53.6342375;9.954726599999999
+819;Sperberhorst 5-9;022455;Hamburg-Niendorf;53.6342375;9.954726599999999
+820;Am Stadtrand 21;022047;Hamburg-Wandsbek;53.5856049;10.0995199
+821;Grodener Chaussee 80;027472;Cuxhaven-Groden;53.8512241;8.7135803
+822;Barsbütteler Str. 33;022043;Hamburg-Jenfeld;53.5712446;10.1416748
+823;Möllner Landstr. 119;021509;Glinde;53.543084;10.2140505
+824;Haldesdorfer Str. 76;022179;Hamburg-Bramfeld;53.59885939999999;10.0762435
+825;Appelhoff 1;022309;Hamburg-Appelhoff;53.6080607;10.0584707
+826;Brockeswalder Chaussee 8;027474;Cuxhaven-Süderwisch;53.8602832;8.6813857
+827;Kieler Str. 103-107;025474;Bönningstedt;53.6645646;9.9039362
+828;Nordmarkstr. 12;025348;Glückstadt;53.783596;9.4293401
+829;Schöneberger Str. 29;022045;Hamburg-Jenfeld;53.5849136;10.1396973
+830;Nindorfer Moorweg 1;021354;Bleckede;53.2882277;10.7313788
+831;Bramfelder Chaussee 230-234;022177;Hamburg;53.6123024;10.0754753
+832;Ivo-Hauptmann-Ring 1;022159;Hamburg-Farmsen;53.6007612;10.1127858
+833;Tonndorfer Hauptstr. 173-177;022045;Hamburg-Tonndorf;53.5928773;10.1360503
+834;Grüner Weg 2-5;027472;Cuxhaven-Mitte;53.8697518;8.6999213
+835;Feldweg 21;027472;Cuxhaven-Döse;53.8708276;8.6863393
+836;Am Eiskeller 26;025336;Elmshorn-Klostersande;53.7461492;9.650997
+837;Krohnstieg 55;022415;Hamburg-Langenhorn;53.6478422;10.0100227
+838;Hamburger Str. 207;025336;Elmshorn;53.7490933;9.690678900000002
+839;Hamburger Str. 207;025337;Elmshorn-Industriegebiet;53.7491485;9.690761499999999
+840;August-Krogmann-Str. 192;022159;Hamburg-Farmsen;53.6224029;10.1130157
+841;An der Ost-West Brücke 1;025335;Elmshorn;53.7601396;9.658467
+842;Sieker Landstr. 45;022143;Hamburg-Rahlstedt;53.6076839;10.1787154
+843;Seerauer Str. 39;029439;Lüchow;52.9750577;11.1645076
+844;Kohfurth 5;022850;Norderstedt;53.6875857;9.983355999999999
+845;Güttloh 7-9;025451;Quickborn;53.7207399;9.9025336
+846;Hellmesbergerweg 35;022145;Hamburg-Rahlstedt;53.6317154;10.1821244
+847;Segeberger Chaussee 173-175;022851;Norderstedt;53.68707089999999;10.0294312
+848;Kerntangente 2;021493;Schwarzenbek;53.5044295;10.4879727
+849;Drawehner-Tor-Str. 53;029456;Hitzacker;53.150614;11.0465103
+850;Claus-Ferck-Str. 35-37;022359;Hamburg-Volksdorf;53.65189549999999;10.1649278
+851;An den Ratswiesen 5;029451;Dannenberg;53.1021628;11.1008703
+852;Heisenbergstr. 8-10;025541;Brunsbüttel;53.9003218;9.1253642
+853;Ostfriesenstr. 1;026757;Borkum;53.5807539;6.6911806
+854;Königstr. 10-14;025355;Barmstedt;53.78890269999999;9.7683088
+855;Ferdinand-Harten-Str. 2-6;022949;Ammersbek;53.6789729;10.1453326
+856;Ulzburger Str. 446-454;022844;Norderstedt;53.7291792;9.9978169
+857;Poppenbütteler Chaussee 35;022397;Hamburg-Duvenstedt;53.70462269999999;10.1041021
+858;Büchener Str. 1;021514;Büchen;53.4843181;10.6154606
+859;Hamburger Str. 65-71;022926;Ahrensburg;53.66749069999999;10.2302539
+860;Jacobsrade 56-66;022962;Siek;53.6442414;10.2902718
+861;Hafenstr. 16-18;025709;Marne;53.94967159999999;9.0084223
+862;Poststr. 15-23;022946;Trittau;53.6090014;10.4104385
+863;Am Bahnbogen 8;024558;Henstedt-Ulzburg;53.80026549999999;9.9789415
+864;Carl-Zeiss-Str. 1;025524;Itzehoe;53.9223302;9.506939899999999
+865;Zu den Fischteichen 1A;022941;Bargteheide;53.7230269;10.2546211
+866;Flottkamp 8;024568;Kaltenkirchen;53.8345219;9.963904699999999
+867;Lise-Meitner-Str. 1;025524;Itzehoe;53.9507904;9.493707299999999
+868;Segeberger Str. 20;023866;Nahe;53.7992036;10.1469971
+869;Hauptstr. 81;023898;Sandesneben;53.6888117;10.4863988
+870;An der Stör 4;025548;Kellinghusen;53.9471692;9.7158477
+871;Hamburger Str. 55;024576;Bad Bramstedt;53.9076195;9.8821589
+872;Grambeker Weg 55-57;023879;Mölln;53.6177836;10.6780324
+873;Ernst-Günther-Albers-Str. 11-15;025704;Meldorf;54.09438609999999;9.0635927
+874;Industriestr. 7;023843;Bad Oldesloe;53.8022723;10.3879615
+875;Heider Str. 6;025761;Büsum;54.1375468;8.872543
+876;Bahnhofsallee 43;023909;Ratzeburg;53.6978827;10.7425016
+877;Hamburger Chaussee 15;023858;Reinfeld;53.8242657;10.4944624
+878;Süderstr. 38B;025767;Albersdorf;54.1403299;9.2864084
+879;Itzehoer Str. 42;024594;Hohenwestedt;54.0849524;9.6508973
+880;Kronsheider Str. 20;023812;Wahlstedt;53.9496204;10.2006966
+881;Meldorfer Str. 151;025746;Heide;54.1835152;9.0910493
+882;Schanzenstr. 9;025746;Heide;54.1970592;9.1320032
+883;Lindhofstr. 14;023795;Bad Segeberg;53.9520762;10.3108361
+884;Von-Humboldt-Str. 1;025746;Wesseln;54.2065536;9.087115299999999
+885;Industriestr. 5;024647;Wasbek;54.0730763;9.9170123
+886;Wasbeker Str. 335;024537;Neumünster-Faldera;54.0701933;9.9655664
+887;Wasbeker Str. 335;024534;Neumünster;54.0685057;9.941477899999999
+888;Fehmarnstr. 13;024539;Neumünster-Wittorf;54.0606623;9.9716199
+889;Berliner Str. 14;023568;Lübeck;53.8469706;10.6832297
+890;Ziegelstr. 113-119;023556;Lübeck-Buntekuh;53.8631044;10.6539976
+891;Moislinger Allee 54;023558;Lübeck-St.Lorenz Süd;53.8589816;10.6699317
+892;Osterweide 12;023562;Lübeck-St.Jürgen;53.841243;10.7111072
+893;Stover Weg 2;024536;Neumünster-Tungendorf;54.09918949999999;9.988165500000001
+894;Krempelsdorfer Allee 32-36;023556;Lübeck-St.Lorenz Nord;53.88142819999999;10.6585222
+895;Kantstr. 11;023566;Lübeck-Marli;53.86499449999999;10.7214473
+896;Nordergeest 3;025826;St.Peter-Ording;54.3053457;8.6459025
+897;Lohkamp 33-35;024589;Nortorf;54.1652245;9.8581989
+898;Kieler Tor 25;024619;Bornhöved;54.0739262;10.2298657
+899;Dithmarscher str. 3;025832;Tönning;54.32396;8.9527
+900;Kieler Str. 48;024582;Bordesholm;54.1794727;10.0274338
+901;Heidkoppel 1;024803;Erfde;54.31101959999999;9.3325462
+902;Dassower Str. 8B;023923;Schönberg;53.8555421;10.9273463
+903;Lübecker Str. 2;023623;Ahrensbök;54.0096846;10.5718881
+904;Solmitzstr. 26;023569;Lübeck-Kücknitz;53.9147537;10.8064111
+905;Kreishafenstr. 5;024768;Rendsburg;54.2933294;9.6712407
+906;Rendsburger Str. 31-33;024787;Fockbek;54.307175;9.605718
+907;Van-Wouwer-Str. 2;025840;Friedrichstadt;54.37929870000001;9.071300599999999
+908;August-Borsig-Str. 1;024783;Osterrönfeld;54.29575209999999;9.708910399999999
+909;Schleswiger Chaussee 31-35;024768;Rendsburg;54.311572;9.646087399999999
+910;Gneversdorfer Weg 28;023570;Lübeck-Travemünde;53.9615351;10.8607947
+911;Sportallee 3;024782;Büdelsdorf;54.3193227;9.690264899999999
+912;Bullenwarder;024306;Plön;54.15918019999999;10.4133415
+913;Hamburger Landstr. 110;024113;Molfsee;54.27185590000001;10.072619
+914;Ziegelhof 2;023936;Grevesmühlen;53.8641779;11.1783252
+915;Plöner Landstr. 9;023701;Eutin;54.1285047;10.5791422
+916;Lindenstr. 80;024211;Preetz;54.2293862;10.2679092
+917;Bürgermeister-Steenbock-Str. 22-24;023701;Eutin;54.1285452;10.6216332
+918;Rendsburger Landstr. 360;024111;Kiel-Russee;54.3008228;10.0731484
+919;Industriestr. 2;024848;Kropp;54.41333909999999;9.522535699999999
+920;Ostenfelder Str. 72;025813;Husum-Ostenfeld;54.4699436;9.0917165
+921;Stormarnstr. 33;024113;Kiel-Gaarden Süd;54.3060316;10.1273991
+922;Preetzer Str. 306;024147;Kiel-Elmschenhagen;54.2973082;10.1692359
+923;Mergenthaler Str. 24;024223;Raisdorf;54.2890981;10.220536
+924;Kirchhofallee 68;024114;Kiel-Südfriedhof;54.3160379;10.118283
+925;Eutiner Str. 71;023730;Neustadt/ Holstein;54.0992532;10.7945183
+926;Werftstr. 197;024143;Kiel-Gaarden Ost;54.31286120000001;10.1414704
+927;Dieselstr. 9;025813;Husum;54.49147929999999;9.076699300000001
+928;Kieler Str. 32-38;024119;Kronshagen;54.3301932;10.0904849
+929;Oldenburger Str. 34;023730;Neustadt/ Holstein;54.1111438;10.8253758
+930;Wischhofstr. 80;024148;Kiel-Wellingdorf;54.323924;10.181861
+931;Boltenhagener Str. 10B;023948;Klütz;53.9679709;11.1717353
+932;Ravensberg 14-16;024214;Gettorf;54.4143716;9.9821285
+933;Sauerstr. 6A;024340;Eckernförde;54.4494154;9.832708199999999
+934;Am kleinen Stadtfeld 8;023970;Wismar-Rothentor;53.8744916;11.4464715
+935;Lübsche Str. 203;023966;Wismar-Friedenshof;53.8958253;11.4276701
+936;Falckensteiner Str. 40;024159;Kiel-Friedrichsort;54.3937701;10.1755473
+937;Lattenkamp 2;024837;Schleswig;54.5307763;9.5301922
+938;Ostlandstr. 98;024340;Eckernförde;54.4874918;9.8254815
+939;Königsberger Str. 1;024321;Lütjenburg;54.29518359999999;10.5971212
+940;Am Wiesengrund 3;023970;Wismar-Nord;53.911444;11.48426
+941;Husumer Str. 65;025821;Breklum;54.6092009;8.9781245
+942;Lübecker Straße;023738;Lensahn;54.21716929999999;10.8833287
+943;Große Mühlenstr. 51;024217;Schönberg;54.3886157;10.3829648
+944;Pöttacker 2;024860;Böklund;54.6004923;9.588700399999999
+945;Hemkweg 6;025938;Wyk auf Föhr;54.6939973;8.567021900000002
+946;Am Vossberg 3;023758;Oldenburg/ Holstein;54.2930272;10.9117393
+947;Wanderuper Str. 11;024963;Tarp;54.6664373;9.394739999999999
+948;Schleswiger Str. 5;024392;Süderbrarup;54.6356818;9.7699366
+949;Bernard-Liening-Str. 13;024376;Kappeln;54.653073;9.9489158
+950;Bahnhofstr. 36;025899;Niebüll;54.7821706;8.8282059
+951;Osterfeld 2;024980;Schafflund;54.7614725;9.1921647
+952;Industriestr. 28;025917;Leck;54.7782054;8.981851400000002
+953;Sundweg 113;023774;Heiligenhafen;54.3659235;11.0078776
+954;Tarper Str. 9;024966;Sörup;54.7229143;9.6761217
+955;Raiffeisenstr. 8;024983;Handewitt;54.7694179;9.3244777
+956;Zur Bleiche 4;024941;Flensburg-Rude;54.771423;9.4331715
+957;Friesische Str. 171-191;024937;Flensburg-Friesischer Berg;54.7778936;9.4160266
+958;Neustadt 23;024939;Flensburg-Duburg;54.796841;9.4265403
+959;Musbeker Weg 1B;024955;Harrislee;54.8019197;9.396007599999999
+960;Merkurstr. 24;024943;Flensburg-Engelsby;54.79606649999999;9.477963599999999
+961;Nordstr. 2;024395;Gelting;54.7461147;9.8916735
+962;Birkland 1;024999;Wees;54.8071437;9.514750900000001
+963;Hauptstr. 38;025923;Süderlügum;54.8748576;8.9102523
+964;Kiarwai 18-24;025980;Sylt-Tinnum;54.90108;8.329369999999999
+965;Landkirchener Weg 38-40;023769;Burg/ Fehmarn;54.44229319999999;11.1812495
+966;Jöllenbecker Str. 41;033613;Bielefeld-Mitte;52.0306219;8.5276439
+967;Babenhauser Str. 18;033613;Bielefeld-Schildesche;52.05924479999999;8.5169807
+968;Stadtheider Str. 11;033609;Bielefeld-Schildesche;52.0366763;8.5520976
+969;Heeper Str. 113;033607;Bielefeld-Mitte;52.0230539;8.5559844
+970;Oldentruper Str. 255;033719;Bielefeld-Oldentrup;52.01220929999999;8.5971092
+971;Kimbernstr. 1;033647;Bielefeld-Brackwede;51.9897731;8.5071528
+972;Detmolder Str. 550;033699;Bielefeld-Hillegossen;51.99317449999999;8.604730499999999
+973;Bahnhofstr. 21A;033803;Steinhagen;52.0081872;8.4130383
+974;Gütersloher Str. 299;033649;Bielefeld-Ummeln;51.9714492;8.466865
+975;Industriestr. 8;033689;Bielefeld-Sennestadt;51.953254;8.5756491
+976;Elsa-Brandström-Str. 1;033790;Halle/ Westfalen;52.054386;8.3730944
+977;Lange Str. 35-37;032139;Spenge;52.1414597;8.4826842
+978;Lambernweg 46;032130;Enger;52.1478001;8.562153
+979;Westring 70;032051;Herford;52.1174735;8.653999899999999
+980;Krentruper Str. 34;033818;Leopoldshöhe;52.0115541;8.703135999999999
+981;Mindener Str. 69;032049;Herford;52.1252252;8.6824335
+982;Herforder Str. 82;032105;Bad Salzuflen;52.09088879999999;8.7288771
+983;Bünder Str. 256;032120;Hiddenhausen;52.1564761;8.6437695
+984;Hoffmannstr. 19;032105;Bad Salzuflen;52.07729459999999;8.7524859
+985;Herforder Str. 13;032257;Bünde;52.1944625;8.5884087
+986;Lüchtenstr. 61;033758;Schloß Holte-Stukenbrock;51.9078293;8.6527586
+987;Carl-Bertelsmann-Str. 152;033332;Gütersloh-Sundern;51.90503200000001;8.394546
+988;Lübbecker Str. 74;032257;Bünde-Spradow;52.2067098;8.594655399999999
+989;Westring 11;033415;Verl;51.8787911;8.4919286
+990;Lübbecker Str. 149;032278;Kirchlengern;52.2073659;8.638115899999999
+991;Neuenkirchener Str. 100;033332;Gütersloh-Kattenstroth;51.893211;8.3818801
+992;Auf dem Stempel 10;033334;Gütersloh;51.9052689;8.346313199999999
+993;Triftenstr. 76;032791;Lage;51.98990569999999;8.8121031
+994;Alte Bünder Str. 16;032584;Löhne;52.1979572;8.7148101
+995;Berliner Ring 40;033428;Harsewinkel;51.96569;8.2445193
+996;Adolf-Meier-Str. 38;032758;Detmold-Heidenoldendorf;51.944708;8.8343864
+997;Herforder Str. 71;032657;Lemgo;52.0280516;8.8833617
+998;Sprottauer Str. 1;032756;Detmold-Süd;51.9406504;8.856874099999999
+999;Meyrastr. 1;032602;Vlotho;52.15337719999999;8.841495499999999
+1000;Weserstr. 61;032547;Bad Oeynhausen-Süd;52.197945;8.8157795
+1001;Am Bahnhof 4;033397;Rietberg;51.8177251;8.4304652
+1002;Knetterhauser Str. 15;033775;Versmold;52.0419332;8.142648
+1003;Dingelkamp 2;032549;Bad Oeynhausen-Eidinghausen;52.2168961;8.8030555
+1004;Anne-Frank-Str. 7;032756;Detmold;51.94729290000001;8.8968039
+1005;Feldhüserweg 20;033378;Rheda-Wiedenbrück;51.8431314;8.2946327
+1006;Mindener Straße;032361;Preussisch Oldendorf;52.2991044;8.508880699999999
+1007;Marktstr. 2;032361;Preußisch Oldendorf;52.30484089999999;8.4966402
+1008;Am Hahlerbaum 1;032312;Lübbecke;52.3050753;8.601020499999999
+1009;Am Bahnhof 36;032312;Luebbecke;52.30506;8.60107
+1010;Brenkenkamp 4;033129;Delbrück;51.7664443;8.560726899999999
+1011;Bahnhofstr. 44;032805;Horn-Bad Meinberg;51.8774477;8.9553397
+1012;Hatzfelder Str. 73;033104;Paderborn-Schloß Neuhaus;51.7535009;8.727433999999999
+1013;An der Weberei 2;033175;Bad Lippspringe;51.7763095;8.805486799999999
+1014;Portastr. 119;032457;Porta Westfalica-Barkhausen;52.2639273;8.9066505
+1015;Mindener Str. 94-96;032479;Hille;52.3350456;8.746919799999999
+1016;Zur Porta 1;032457;Porta Westfalica-Neesen;52.2516251;8.9297718
+1017;Königstr. 170A;032427;Minden;52.2922756;8.8844239
+1018;Schwabenweg 81;033102;Paderborn;51.7467854;8.7561628
+1019;Meßdornstr. 3;033106;Paderborn-Elsen;51.7300295;8.6913907
+1020;Gerhard-Wetzel-Str. 9;032339;Espelkamp;52.375919;8.6314695
+1021;Neuhäuser Str. 127;033102;Paderborn;51.72881899999999;8.730482
+1022;Stiftstr. 51-53;032427;Minden;52.2987222;8.9112724
+1023;Viktoriastr. 39-41;032423;Minden;52.2879654;8.9439926
+1024;Bahnhofstr. 84;033102;Paderborn;51.71269170000001;8.7330116
+1025;Breslauer Str. 8;032699;Bösingfeld;52.06858;9.1077043
+1026;Alter Dreschplatz 2;032825;Blomberg;51.94456630000001;9.0972508
+1027;Alverdisser Str. 30;032683;Barntrup;51.9968662;9.121456799999999
+1028;Bahnhofsallee 5;031737;Rinteln;52.1981911;9.0792997
+1029;Dessauer Str. 2;033106;Paderborn;51.6966033;8.7372904
+1030;Warburger Str. 130;033100;Paderborn;51.705369;8.7770323
+1031;Navarrastr. 37;033106;Paderborn;51.687432;8.732326200000001
+1032;Geseker Str. 30;033154;Salzkotten;51.6700872;8.5964841
+1033;Lipper Tor 4;032839;Steinheim;51.8773294;9.0876209
+1034;Hannoversche Str. 18;031675;Bückeburg;52.2634681;9.0619782
+1035;Eisenbahnstr. 20;032369;Rahden;52.42977500000001;8.6234281
+1036;Bahnhofstr. 1;033178;Borchen;51.66047349999999;8.716755
+1037;Vehlener Str. 13;031683;Obernkirchen;52.27075439999999;9.1171122
+1038;Mühlenstr. 12;033014;Bad Driburg;51.7324733;9.0237756
+1039;Dingbreite 1;032469;Petershagen-Lahde;52.3757113;8.9966294
+1040;Hesper Str. 33;031693;Hespe-Stemmen;52.3218781;9.1076616
+1041;Münchhausenring 6;031840;Hessisch Oldendorf;52.16794470000001;9.2437758
+1042;Bahnhofstr. 63;031812;Bad Pyrmont;51.97816839999999;9.2666097
+1043;Bahnhofstr. 41;033142;Büren;51.5577857;8.5540074
+1044;Breslauer str. 4;031655;Stadthagen;52.324237;9.1937331
+1045;Mühlenstr. 6-10;031600;Uchte;52.4989268;8.9041386
+1046;Nienstedter Weg 2;031789;Hameln-Klein Berkel;52.0844925;9.3552042
+1047;Reimerdeskamp 9;031787;Hameln-Nordstadt;52.1183468;9.355433699999999
+1048;Ohsener Str. 11;031789;Hameln-Gewerbegebiet;52.0991835;9.362037299999999
+1049;Ohsener Str. 11;031785;Hameln;52.0991604;9.3619732
+1050;Warburger Str. 17;033034;Brakel;51.7138308;9.1801806
+1051;Deisterstr. 85;031785;Hameln;52.103884;9.3760623
+1052;Hauptstr. 57-63;031860;Emmerthal-Kirchohsen;52.0477893;9.3864006
+1053;Lütmarser Str. 76;037671;Höxter;51.7739814;9.3601767
+1054;Auf dem Weinberge 2;031592;Stolzenau;52.5232489;9.0751429
+1055;Am Rohmel-Center 1;031848;Bad Münder;52.1942219;9.4646841
+1056;Gehrenbreite 6;031542;Bad Nenndorf;52.34305879999999;9.3838179
+1057;Ernst-Reuter-Str. 9;037619;Bodenwerder;51.9824898;9.506572
+1058;Allersheimer Str. 38;037603;Holzminden;51.83399;9.4608078
+1059;Bahnstr. 3;034431;Marsberg;51.4631415;8.8560866
+1060;Steinklippen Str. 7;030890;Barsinghausen;52.31645890000001;9.464955999999999
+1061;Blankenauer Str. 10;037688;Beverungen;51.6728256;9.3763578
+1062;Am Kalkwerk 2A;031832;Springe;52.215575;9.5511409
+1063;Großenheidorner Str. 1;031515;Wunstorf-Steinhude;52.4543744;9.3594134
+1064;Paderborner Tor 144;034414;Warburg;51.49144;9.13528
+1065;Hagenburger Str. 6;031515;Wunstorf;52.4300214;9.4240143
+1066;Industriestr. 8;031515;Wunstorf;52.4183476;9.4517235
+1067;Adolf-Oesterheld-Str. 32;031515;Wunstorf;52.41355;9.46459
+1068;Neue Str. 38;037627;Stadtoldendorf;51.8817714;9.6320633
+1069;Göttinger Str. 1;031582;Nienburg;52.6338409;9.2215673
+1070;Bahnhofstr. 64-66;034454;Bad Arolsen;51.38176000000001;9.006530099999999
+1071;Landwehr 9;031535;Neustadt/ Rübenberge;52.5046759;9.452354099999999
+1072;Verdener Landstr. 62;031582;Nienburg;52.653723;9.2198371
+1073;Justus-von-Liebig-Str. 21;031535;Neustadt/ Rübenberge;52.5090397;9.475959699999999
+1074;Hannoversche Str. 81A;030926;Seelze;52.3930664;9.614199
+1075;Briloner Str. 72;034508;Willingen;51.2946392;8.6011793
+1076;Auf der Horst 66-70;030823;Garbsen;52.42193;9.594669999999999
+1077;Ilmestr. 20;037586;Dassel;51.79867369999999;9.6980474
+1078;Industriestr. 6;034369;Hofgeismar;51.4993756;9.389998100000001
+1079;Gartenstr. 30;030453;Hannover-Ahlem;52.3774947;9.6606872
+1080;Tresckowstr. 43;030457;Hannover-Mühlenberg;52.337379;9.6936906
+1081;Siemensstr. 2;030827;Garbsen-Berenbostel;52.4432439;9.6107601
+1082;Bethelner Landstr. 15;031028;Gronau;52.0873626;9.785224399999999
+1083;Hauptstr. 47-50;031171;Nordstemmen;52.16111900000001;9.7824074
+1084;Wiesenstr. 29;037170;Uslar;51.6605178;9.628464899999999
+1085;Alte Stöckener Str. 95-97;030419;Hannover-Stöcken;52.4147078;9.6513086
+1086;Tillystr. 31;030459;Hannover-Ricklingen;52.3368408;9.7179466
+1087;Weetzener Landstr. 102;030966;Hemmingen;52.3195348;9.731858899999999
+1088;Hannoversche Str. 46;031061;Alfeld/ Leine;51.98612259999999;9.806358
+1089;Bardowicker Str. 12;030449;Hannover-Linden;52.3690308;9.7042554
+1090;Göttinger Str. 11-13;030982;Pattensen;52.2687627;9.7639938
+1091;Arolser Landstr. 35;034497;Korbach;51.2817695;8.8760932
+1092;Medebacher Landstr. 23;034497;Korbach;51.27069119999999;8.855864300000002
+1093;Hüttenstr. 23;030165;Hannover-Hainholz;52.393902;9.7223335
+1094;Niki-de-Saint-Phalle-Promenade 86;030161;Hannover-Oststadt;52.3777374;9.7430734
+1095;Hildesheimer Str. 213-219;030519;Hannover-Döhren;52.3440453;9.7639444
+1096;Hildesheimer Str. 428;030519;Hannover;52.32388;9.78091
+1097;Dragonerstr. 39;030163;Hannover-Vahrenwald;52.3950008;9.7394719
+1098;Spielhagenstr. 20;030173;Hannover-Südstadt;52.3627964;9.7637243
+1099;Lynkerstr. 18;034466;Wolfhagen;51.3272187;9.1772174
+1100;Pettenkoferstr. 2D;030880;Laatzen;52.30532410000001;9.814796099999999
+1101;Straßburger Platz 20-25;030853;Langenhagen;52.4402802;9.726179199999999
+1102;Straßburger Platz 20-25;030851;Langenhagen;52.4402802;9.726179199999999
+1103;Dresdener Str. 3;030179;Hannover-Vahrenheide;52.4113591;9.7521176
+1104;Am Listholze 54;030177;Hannover-List;52.4002618;9.7651184
+1105;Vosstr. 12;031157;Sarstedt;52.2295688;9.843007000000002
+1106;Wülfeler Str. 78;030539;Hannover-Bemerode;52.3383117;9.813192599999999
+1107;Wildunger Str. 30-32;034513;Waldeck-Sachsenhausen;51.2416184;9.0128606
+1108;Von-Ketteler-Str. 24;031137;Hildesheim-Himmelsthür;52.16691909999999;9.915542199999999
+1109;Grimsehlstr. 22-24;037574;Einbeck;51.8163206;9.8744161
+1110;Eichenweg 1;030659;Hannover-Bothfeld;52.4296941;9.801629799999999
+1111;Rex-Brauns-Str. 6;031139;Hildesheim-Ochtersum;52.126886;9.9433366
+1112;Steuerwalder Str. 31;031137;Hildesheim-Nord;52.1616385;9.9457117
+1113;Brucknerring 1;030629;Hannover-Misburg;52.3948773;9.843651099999999
+1114;Anderter Str. 81;030629;Hannover-Misburg;52.3802864;9.8633531
+1115;Drispenstedter Str. 2;031137;Hildesheim-Ost;52.1635248;9.9648933
+1116;Frankenstr. 2C;031135;Hildesheim-Ost;52.1554362;9.9694045
+1117;Harleshäuser Str. 21;034246;Vellmar;51.3555097;9.4494548
+1118;Wedemarkstr. 85;030900;Wedemark-Mellendorf;52.546585;9.7442733
+1119;Bodenburger Str. 22;031162;Bad Salzdetfurth;52.050878;10.0017723
+1120;Nordstr. 20;031319;Sehnde;52.3138274;9.962216699999999
+1121;Bunsenstr. 105;034127;Kassel-Wartenberg;51.3392665;9.4911671
+1122;Wolfhager Str. 201;034127;Kassel-Rothenditmold;51.3241651;9.469056799999999
+1123;Holzmindener Str. 2;037581;Bad Gandersheim;51.8703679;10.0155109
+1124;Quellhofstr. 22;034127;Kassel;51.33282;9.501
+1125;Ihringshäuser Str. 151;034125;Kassel-Fasanenhof;51.340278;9.516186099999999
+1126;Kohlenstr. 75;034121;Kassel-Wehlheiden;51.3086636;9.4585309
+1127;Wolfshof 2;037127;Dransfeld;51.5031925;9.7646604
+1128;Obere Königsstr. 39;034117;Kassel-Mitte;51.3145908;9.4946484
+1129;Hedemündener Str. 19;034346;Hannoversch Münden;51.4183605;9.669728
+1130;Ostring 62A;034125;Kassel-Wesertor;51.3238674;9.5167659
+1131;Burgdorfer Str. 72-80;031275;Lehrte;52.382929;9.9754615
+1132;Brückenhofstr. 77;034134;Kassel;51.28258659999999;9.4420161
+1133;Brückenhofstr. 77;034132;Kassel-Oberzwehren;51.28258659999999;9.4420161
+1134;Hafenstr. 5;034125;Kassel-Unterneustadt;51.3145013;9.5103042
+1135;Frankfurter Str. 215-217;034134;Kassel-Niederzwehren;51.2910402;9.4745846
+1136;Egon-Höhmann-Str. 2;034266;Niestetal-Sandershausen;51.3160649;9.5434266
+1137;Göttinger Str. 34;037176;Nörten-Hardenberg;51.6245983;9.9364464

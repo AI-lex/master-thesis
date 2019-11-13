@@ -1,0 +1,22 @@
+﻿Aktualitaet: 31.12.2016
+
+
+Hinweis zu Einwohnerzahlen:						
+						
+Für sechs Kommunen ist das vorliegende Ergebnis, das u. a. auf Basis der 
+von den Meldebehörden erhaltenen Nachrichten ermittelt wurde, unplausibel. 
+Für diese 6 Gemeinden wurden die Einwohnerzahlen von 2015 genutzt.
+
+
+Daher ist die Genauigkeit der Ergebnisse der übergeordneten Verwaltungsbezirke eingeschränkt. 
+
+
+Die Gründe hierfür liegen offenbar in der melderechtlichen Behandlung von Schutzsuchenden. Die Unstimmigkeiten konnten nicht abschließend aufgelöst werden.						
+
+NNID             RS           Name         EWZ_2015
+DEBKGGND00001I2C 051540028028 Kerken        13262
+DEBKGGND00001EHK 055540052052 Schöppingen    7280
+DEBKGGND00001JI9 057620004004 Bad Driburg   18699
+DEBKGGND00001BK2 057620012012 Borgentreich   9497
+DEBKGGND00001BFP 059620016016 Hemer         33535
+DEBKGGND00001B0B 059780036036 Unna          59111
