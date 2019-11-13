@@ -76,7 +76,7 @@ def get_koordinaten(filial_id, filial_strassenname, filial_plz, filial_region, a
 #Beispiel Request: https://maps.googleapis.com/maps/api/geocode/json?address={Thale%206502%20Musestieg%205}
 
 koordinaten_liste = []
-apikey = "AIzaSyBc_iqBqHcTGIpyO_syc1l8N8tssytQpCM" 
+apikey = None 
 
 for filiale in filialen:
     koordinaten_liste.append(get_koordinaten(filiale["ID"], filiale["Strassenname"], filiale["PLZ"], filiale["Region"], apikey))
