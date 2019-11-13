@@ -1,0 +1,65 @@
+
+
+DOKU: https://www.mankier.com/1/osmconvert
+
+osmfilter ./germany-latest.osm/germany-latest.osm --out-key=amenity
+osmfilter ./germany-latest.osm/germany-latest.osm --out-count
+
+
+osmconvert --drop-ways  --drop-relations --drop-author saarland-latest.osm.pbf -o=saarland_nodes.osm
+
+
+osmfilter --keep="amenity or name=*shop* or leisure or shop or building" germany_20180915.osm -o=germany_20180915_nodes.osm
+osmfilter --keep="name=*shop*" saarland_nodes.osm -o=saarland_extracted_shops.osm
+
+--keep-tags="all amenity= name="
+
+
+
+
+node
+ |-- id: long
+ |-- version: integer
+ |-- timestamp: long
+ |-- changeset: long
+ |-- uid: integer
+ |-- user_sid: string
+ |-- tags: array
+ |    |-- element: struct
+ |    |    |-- key: string
+ |    |    |-- value: string
+ |-- latitude: double
+ |-- longitude: double
+
+way
+ |-- id: long
+ |-- version: integer
+ |-- timestamp: long
+ |-- changeset: long
+ |-- uid: integer
+ |-- user_sid: string
+ |-- tags: array
+ |    |-- element: struct
+ |    |    |-- key: string
+ |    |    |-- value: string
+ |-- nodes: array
+ |    |-- element: struct
+ |    |    |-- index: integer
+ |    |    |-- nodeId: long
+
+relation
+ |-- id: long
+ |-- version: integer
+ |-- timestamp: long
+ |-- changeset: long
+ |-- uid: integer
+ |-- user_sid: string
+ |-- tags: array
+ |    |-- element: struct
+ |    |    |-- key: string
+ |    |    |-- value: string
+ |-- members: array
+ |    |-- element: struct
+ |    |    |-- id: long
+ |    |    |-- role: string
+ |    |    |-- type: string
