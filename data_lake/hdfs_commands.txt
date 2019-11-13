@@ -1,0 +1,53 @@
+
+####### ####### ####### ####### ####### ####### ####### ####### 
+####### 		Dokumentation		    ###########
+####### ####### ####### ####### ####### ####### ####### ####### 
+
+hadoop fs
+hadoop fs -ls / (Files im HDFS anzeigen)
+hadoop fs -mkdir /meinert (Dir erzeugen)
+hadoop fs -rmdir /meinert/dir (Dir lˆschen)
+hadoop fs -rm /meinert/file (file lˆschen)
+
+Dateiverzeichnis: /usr/local/spark/meinert_data
+
+hdfs dfs -copyFromLocal osmconvert64 /meinert/osmconvert
+hdfs dfs -copyFromLocal dwd /meinert/landing/dwd_weather
+hdfs dfs -copyFromLocal OSM /meinert/landing/osm_geo
+hdfs dfs -copyFromLocal open_data_gov /meinert/landing/gov_data
+
+hadoop fs -stat "%F %n %o %r" /meinert/osmconvert
+	%b  Size of file in bytes
+	%F  Will return "file", "directory", or "symlink" depending on the type of inode
+	%g  Group name
+	%n  Filename
+	%o  HDFS Block size in bytes ( 128MB by default )
+	%r  Replication factor
+	%u  Username of owner
+	%y  Formatted mtime of inode
+	%Y  UNIX Epoch mtime of inode
+
+Datei zum remote host kopieren
+scp zensus.csv <IP-Host>/usr/local/spark/meinert/zensus.csv
+scp "\Downloads\osmconvert64" <IP-Host>/usr/local/spark/meinert_data/OSM/osmconvert64
+
+
+
+garbage bin leeren
+hdfs dfs -expunge
+
+####### ####### ####### ####### ####### ####### ####### ####### 
+####### Kommdandos zur Datenintegration der Quellen ###########
+####### ####### ####### ####### ####### ####### ####### ####### 
+
+
+Dateiverzeichnis Landing Zone: /usr/local/spark/meinert/landing
+
+Dateiverzeichnis Raw Zone: hdfs://Master:9000/meinert/raw
+
+cd /usr/local/spark/meinert/landing
+
+hdfs dfs -copyFromLocal /destatis /meinert/osmconvert
+hdfs dfs -copyFromLocal dwd /meinert/landing/dwd_weather
+hdfs dfs -copyFromLocal OSM /meinert/landing/osm_geo
+hdfs dfs -copyFromLocal open_data_gov /meinert/landing/gov_data
