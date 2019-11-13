@@ -1,0 +1,24 @@
+
+osmconvert germany-latest.osm.pbf --out-statistics
+
+timestamp min: 2005-07-05T02:19:29Z
+timestamp max: 2019-03-19T21:12:58Z
+lon min: -20.0712330
+lon max: 25.2232488
+lat min: 47.1444672
+lat max: 62.5146553
+nodes: 298844867
+ways: 48398596
+relations: 636438
+node id min: 100
+node id max: 6348335069
+way id min: 92
+way id max: 678007184
+relation id min: 882
+relation id max: 9413646
+keyval pairs max: 476
+keyval pairs max object: relation 52411
+noderefs max: 2000
+noderefs max object: way 296202600
+relrefs max: 7061
+relrefs max object: relation 4629093

@@ -1,0 +1,47 @@
+
+node
+ |-- id: long
+ |-- version: integer
+ |-- timestamp: long
+ |-- changeset: long
+ |-- uid: integer
+ |-- user_sid: string
+ |-- tags: array
+ |    |-- element: struct
+ |    |    |-- key: string
+ |    |    |-- value: string
+ |-- latitude: double
+ |-- longitude: double
+
+way
+ |-- id: long
+ |-- version: integer
+ |-- timestamp: long
+ |-- changeset: long
+ |-- uid: integer
+ |-- user_sid: string
+ |-- tags: array
+ |    |-- element: struct
+ |    |    |-- key: string
+ |    |    |-- value: string
+ |-- nodes: array
+ |    |-- element: struct
+ |    |    |-- index: integer
+ |    |    |-- nodeId: long
+
+relation
+ |-- id: long
+ |-- version: integer
+ |-- timestamp: long
+ |-- changeset: long
+ |-- uid: integer
+ |-- user_sid: string
+ |-- tags: array
+ |    |-- element: struct
+ |    |    |-- key: string
+ |    |    |-- value: string
+ |-- members: array
+ |    |-- element: struct
+ |    |    |-- id: long
+ |    |    |-- role: string
+ |    |    |-- type: string

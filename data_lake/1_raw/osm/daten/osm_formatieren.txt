@@ -1,0 +1,20 @@
+
+
+DOKU: https://www.mankier.com/1/osmconvert
+
+##### ##### ##### ##### ##### ##### ##### ##### #####
+##### #####  Kommando zur Konvertierung   ##### #####
+##### ##### ##### ##### ##### ##### ##### ##### #####
+
+
+(download)
+wget http://download.geofabrik.de/europe/germany-latest.osm.pbf
+
+osmconvert ../0_landing/osm/daten/germany-latest.osm.pbf --out-osm -o=germany_<zeitpunkt>.osm
+
+Beispiel:
+
+osmconvert ../0_landing/osm/daten/germany-latest.osm.pbf --out-osm -o=germany_20180915.osm
+
+
+
