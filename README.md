@@ -11,7 +11,7 @@ There are two section. "docs" contains the written elaboration including present
 
 
 Highlights:
-- methods for handling missing values (time-dependent and time-independent)
-- merging geographical data and optimize runtime with Spark tuning configurations
-- statistical feature selection techniques to tackle high dimension data problems
-- comparison of two machine learning algos
+- merging geographical data and optimize runtime with Spark tuning configurations - chapter 3.6.3 page 77 f.
+- methods for handling missing values (time-dependent and time-independent) - chapter 3.8 page 81 ff.
+- statistical feature selection techniques to tackle high dimension data problems - chapter 4.2.2 page 111 ff.
+- comparison of the output quality of two machine learning algos - chapter 4.5 page 139 ff.
